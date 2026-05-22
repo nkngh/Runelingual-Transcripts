@@ -36,7 +36,7 @@ def process_directory(dir, lang_code):
     files_under_target_path = common_func.get_list_files_in_directory(target_path=target_path)
     with open(output_file, 'w') as out:
         for file in files_under_target_path:
-            if os.path.splitext(file)[1] == common_func.EXTENSION_IGNORE:
+            if os.path.splitext(file)[1] in common_func.EXTENSION_IGNORE:
                 continue
             if (os.path.basename(file) == os.path.basename(output_file)):
                 continue
