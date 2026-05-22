@@ -1,0 +1,334 @@
+
+=== combAchvmt ===
+Monster: <colNum0><!NPC_NAME0></col>
+Nightmare (<Num0>-Scale) Speed-Chaser
+Nightmare (<Num0>-Scale) Speed-Runner
+Nightmare (<Num0>-Scale) Speed-Trialist
+Perfect Araxxor <Num0>
+Personal Best: <colNum0><Num0>:<Num1></col>
+Personal Best: <colNum0>N/A</col>
+Superior slayer creatures are <Num0>% more common
+Tasks Completed: <Num0>/<Num1>
+The <colNum0>Bracelet of slaughter</col> will have a <Num0>% chance to fully recharge instead of breaking
+The <colNum0>Dwarf multicannon</col> can hold <Num0> extra cannonballs
+The <colNum0>Expeditious bracelet</col> has a <Num0>% chance to fully recharge instead of breaking
+The Chambers of Xeric is a large cave system found underneath Mount Quidamortem in the Kebos Lowlands.  The Chambers of Xeric will scale to the number of players (<Num0>-<Num1>) and their stats.  The Chambers of Xeric has a challenge mode difficulty setting for more experienced raiders.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for <Num0>-<Num1> players.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for <Num0>-<Num1> players.  Entry mode is an easier version of the Theatre of Blood aimed at introducing you to the content and the boss mechanics in a less punishing way.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The Theatre of Blood is a large arena located within the castle of Ver Sinhaza in Morytania.  The Theatre of Blood is a raid for <Num0>-<Num1> players.  Hard mode is a more challenging experience than the regular raid. Mechanics are harder and more punishing.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> or greater considered an Expert raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of <Num2> to <Num3> considered a standard raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The Tombs of Amascut can be found in an ancient tomb south of Sophanem.  The Tombs of Amascut is a raid for <Num0>-<Num1> players.  The Tombs of Amascut can scale in difficulty through the use of Invocations. These Invocations change the Raid Level, with a Raid Level of less then <Num2> considered an Entry raid.  Attack Styles - Magic, Ranged, Melee, Special Immunities - Poison, Venom Slayer Categories - None
+The ability to combine <colNum0>KBD Heads</col> with a <colNum1>Dragon Hunter Crossbow</col> to recolour it
+The ability to combine <colNum0>Vorkath's Head</col> with a <colNum1>Dragon Hunter Crossbow</col> to recolour it
+The ability to combine an Avernic defender with Ghommal's hilt <Num0> to create <colNum0>Ghommal's Avernic Defender <Num1></col>
+The ability to make a <colNum0>TzKal Slayer Helmet</col>
+The ability to make a <colNum0>TzTok Slayer Helmet</col>
+The ability to make a <colNum0>Vampyric Slayer Helmet</col>
+The drop chance of an <colNum0>Ecumenical Key</col> is increased by <Num0>%
+The essence required to access a <colNum0>God Wars</col> boss is reduced to <Num0>
+The maximum quantity assigned from the <colNum0>Like a boss</col> slayer reward is increased by <Num0>
+Theatre (<Num0>-Scale) Speed-Chaser
+Theatre (<Num0>-Scale) Speed-Runner
+Theatre: HM (<Num0>-Scale) Speed-Runner
+Type: <colNum0>Kill Count</col> <colNum1>(+<Num0> point)</col>
+Type: <colNum0>Kill Count</col> <colNum1>(+<Num0> points)</col>
+Type: <colNum0>Mechanical</col> <colNum1>(+<Num0> point)</col>
+Type: <colNum0>Mechanical</col> <colNum1>(+<Num0> points)</col>
+Type: <colNum0>Perfection</col> <colNum1>(+<Num0> point)</col>
+Type: <colNum0>Perfection</col> <colNum1>(+<Num0> points)</col>
+Type: <colNum0>Restriction</col> <colNum1>(+<Num0> point)</col>
+Type: <colNum0>Restriction</col> <colNum1>(+<Num0> points)</col>
+Type: <colNum0>Speed</col> <colNum1>(+<Num0> points)</col>
+Type: <colNum0>Stamina</col> <colNum1>(+<Num0> points)</col>
+When you are assigned a <colNum0>TzTok-Jad</col> or <colNum1>TzKal-Zuk</col> slayer task you will be assigned to kill <Num0>
+You can access a privately rented <colNum0>God Wars</col> boss instance for a fee of <Num0>k coins
+You can fight <colNum0>the Hueycoatl</col> privately for a reduced fee of <Num0>k coins
+Your thralls will last <Num0>% longer
+
+=== generalUI ===
+<Num0>rd Age Druidic staff (with <Num1> attack)
+<Num0>rd age Druidic robes
+<Num0>rd age robes (with <Num1> Defence)
+Adamant <Num0> coal & <Num1> adamantite ore
+Asgarnian Ale <Num0> Asgarnian hops
+Axeman's Folly <Num0> Oak root
+Banana trees Payment: Apples(<Num0>) x<Num1>
+Bluegill (With <Num0> fishing)
+Bronze <Num0> tin ore & <Num1> copper ore
+Burthorpe master (with level <Num0> combat)
+Cadavaberry bushes Payment: Tomatoes(<Num0>) x<Num1>
+Canifis master (with level <Num0> combat)
+Cave Eel: Restores <Num0>-<Num1> Hitpoints (Members)
+Chef's Delight <Num0> Portions of chocolate dust
+Cider <Num0> Apple mush
+Colossal pouch: Holds up to <Num0> essence, depending on your Runecraft level
+Common tench (With <Num0> fishing)
+Consecrated pet house (<Num0> pets)
+Crafting table <Num0>
+Curry trees Payment: Bananas(<Num0>) x<Num1>
+Dashing kebbit: Restores <Num0> Hitpoints and <Num1> Run Energy (Members)
+Desecrated pet house (<Num0> pets)
+Diamond-tipped crossbow bolts <Num0> cosmic + <Num1> earth + <Num2> law runes
+Dragon Bitter <Num0> Krandorian hops
+Dragonstone-tipped crossbow bolts <Num0> cosmic + <Num1> earth + <Num2> soul rune
+Dwarven Stout <Num0> Hammerstone hops
+Dwellberry bushes Payment: Strawberries(<Num0>) x<Num1>
+Eclipse Atlatl (With <Num0> Strength and <Num1> Attack) Ammo: Atlatl darts
+Edgeville Dungeon master (with level <Num0> combat)
+Emerald-tipped crossbow bolts <Num0> cosmic + <Num1> air + <Num2> nature rune
+Giant pouch: Holds <Num0> extra essence
+Gnome Stronghold master (with level <Num0> combat)
+Greater siren (With <Num0> fishing)
+Greenman's Ale <Num0> Harralander leaves
+Hallowed Sepulchre (Floor <Num0>)
+Harvest herbs from the <colNum0>Herbiboar</col> on <colNum1>Fossil Island</col> (with <Num0> Hunter).
+Hitpoints are used to tell you how healthy your character is. A character who reaches <Num0> Hitpoints has died, but will reappear in their chosen respawn location (normally Lumbridge).
+Initiate armour (after Recruitment Drive, with <Num0> Defence)
+Iron <Num0>% chance of success
+Jade-tipped crossbow bolts <Num0> cosmic + <Num1> earth runes
+Krandorian hops Payment: Cabbages(<Num0>) x<Num1>
+Large pouch: Holds <Num0> extra essence
+Lay <Num0> trap at a time
+Lay up to <Num0> traps at a time
+Level <Num0> enchant
+Lunar armour (after Lunar Diplomacy, with <Num0> Defence)
+Mahogany pet house (<Num0> pets)
+Maximum dimensions: <Num0>x<Num1>
+Maximum rooms: <Num0>
+Medium pouch: Holds <Num0> extra essence
+Mithril <Num0> coal & <Num1> mithril ore
+Moonlight Mead <Num0> Bittercap mushrooms
+Moonlight antelope: Restores <Num0> Hitpoints and cures <Num1> level of poison (Members)
+Mottled eel (With <Num0> fishing)
+Mount Karuulm master (with level <Num0> combat)
+Noxious Halberd (With <Num0> Smithing)
+Oak pet house (<Num0> pets)
+Oak shelves <Num0>
+Oak trees Payment: Tomatoes(<Num0>) 
+Onyx-tipped crossbow bolts <Num0> cosmic + <Num1> fire + <Num2> death rune
+Opal-tipped crossbow bolts <Num0> cosmic + <Num1> air runes
+Orange trees Payment: Strawberries(<Num0>) x<Num1>
+Payment: Monkey bar, ground suqah tooth & <Num0> monkey nuts
+Pearl-tipped crossbow bolts <Num0> cosmic + <Num1> water runes
+Potions may be <colNum0>strong</col>, <colNum1>standard</col> or <colNum2>weak</col>, depending on your Herblore level.
+Proselyte armour (after Slug Menace, with <Num0> Defence)
+Purple Sweets: Restores <Num0>-<Num1> Hitpoints (Members)
+Pyramid Plunder - Room <Num0>
+Pyramid Plunder minigame - Room <Num0> In the Jalsavrah Pyramid in Sophanem
+Red topaz-tipped crossbow bolts <Num0> cosmic + <Num1> fire runes
+Redberry bushes Payment: Cabbages(<Num0>) x<Num1>
+Ruby-tipped crossbow bolts <Num0> cosmic + <Num1> fire + <Num2> blood rune
+Runite <Num0> coal & <Num1> runite ore
+Sapphire-tipped crossbow bolts <Num0> cosmic + <Num1> water + <Num2> mind rune
+Saradomin brew: Restores <Num0>% of your Hitpoints level plus <Num1> - can boost beyond your level (Members)
+Serum <Num0> Tarromin & ashes
+Set a deadfall trap (limit of <Num0>)
+Shayzien boots (<Num0>) <Num1> bar
+Shayzien gloves (<Num0>) <Num1> bar
+Shayzien greaves (<Num0>) <Num1> bars
+Shayzien helm (<Num0>) <Num1> bars
+Shayzien platebody (<Num0>) <Num1> bars
+Shilo Village master (with level <Num0> combat)
+Size-<Num0> stars
+Skeletal armour (after The Fremmenik Trials, with <Num0> Defence)
+Slayer's Respite <Num0> Wildblood hops
+Slimy Eel: Restores <Num0>-<Num1> Hitpoints (Members)
+Small pouch: Holds <Num0> extra essence
+Spirit trees (<Num0> planted at a time)
+Steel <Num0> coal & <Num1> iron ore
+Teak pet house (<Num0> pets)
+Teak shelves <Num0>
+Teak trees Payment: Limpwurt root x<Num0> 
+To make curry: make uncooked stew as above. Before cooking, add some spices or <Num0> curry leaves.
+To start fishing like a Barbarian, talk to Otto Godblessed when you have at least level <Num0> Fishing, level <Num1> Agility and level <Num2> Strength.
+Tomatoes Payment: Cabbages(<Num0>) x<Num1>
+Tool store <Num0>
+Wizard's Mind Bomb <Num0> Yanillian hops
+Wooden shelves <Num0>
+Zanaris master (with level <Num0> combat)
+
+=== mainTabs ===
+Annihilate: Hit your target with <Num0>% extra damage and in multicombat zones, hit all adjacent targets by <Num1>% less damage. (<Num2>%)
+Arabian <Num0>
+Armadyl Eye: Deal an attack with double accuracy, also doubles the base activation chance of enchanted bolt effects. (<Num0>%)
+Attack <Num0>
+Backstab: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (<Num0>%)
+Bear Down: Perform an attack with double accuracy, dealing additional damage over time, draining your target's agility level and preventing them from running. (<Num0>%)
+Behead: Consume all Soul Stacks, attacking with increased damage and accuracy per stack, and healing for <Num0> health per stack. (<Num1>%)
+Binding Tentacle: Bind your target for <Num0> seconds and increase the chance of them being poisoned. (<Num1>%)
+Blood Sacrifice: Deal an attack that inflicts <Num0>% more damage with double accuracy and marks your target for a blood sacrifice. Targets marked for a blood sacrifice will be hit for <Num1> damage after a short delay, unless they move away. If they are hit, you'll also be healed for the damage dealt. (<Num2>%)
+Blood infusion: Sacrifice <Num0>% of your current hp to deal an attack with <Num1>% increased accuracy and damage, with a guaranteed set effect activation on hit. This special attack requires the full Bloodrager set to be worn. (<Num2>%)
+Break Shackles: Attack with increased accuracy and damage based on the duration of any binding spells affecting them and ending said effect. This special attack requires the full Frostmoon set to be worn. (<Num0>%)
+Burning barrage: Attacks <Num0> times in quick succession, with a chance to burn the enemy on each hit. (<Num1>%)
+Castle Wars <Num0>
+Celebrate: Perform an attack to leave the area feeling more festive. (<Num0>%)
+Chainhit: Throw an axe which hits your target and then chains to hit further nearby targets, costing <Num0>% additional special attack per extra target. (<Num1>%)
+Change to another spellbook for <Num0> spell cast
+Cleave: Deal a powerful attack that inflicts <Num0>% more damage with <Num1>% increased accuracy and increased speed. (<Num2>%)
+Cleave: Deal a powerful attack that inflicts <Num0>% more damage. (<Num1>%)
+Click <colNum0>Find</col> to find a PvP Arena group.  Once you've found a suitable group, <colNum1>sign up</col> to be invited to its fights.
+Combat Lvl: <Num0>
+Completed: <Num0>/<Num1>
+Concentrated Shot: Deal an attack with <Num0>% increased accuracy and damage, but takes an additional <Num1> seconds to fire. (<Num2>%)
+Condemn: Fire a powerful spell with increased accuracy and damage, lowering your target's magic and defence levels by up to <Num0>%. (<Num1>%)
+Current Poll: <colNum0>Active</col>
+Current world - <Num0>
+Disrupt: Summon a powerful bolt of lightning that deals guaranteed magic damage based on your max hit. (<Num0>%)
+Division: Fire a powerful piercing blade that reduces the targets Defence by <Num0>% of their Magic Level. (<Num1>%)
+Duality: Throws two knives at your opponent. (<Num0>%)
+Eclipse: Attack with <Num0>% increased accuracy, consuming all remaining burn damage affecting the target and raising the max hit by that amount. This special attack requires the full Eclipse set to be worn. (<Num1>%)
+Energy Drain: Deal an attack with <Num0>% increased accuracy that siphons <Num1>% of your target's run energy. (<Num2>%)
+Eviscerate: Perform an attack with your true maximum hit and a <Num0>% accuracy bonus. (<Num1>%)
+Evoke: Perform an attack with double accuracy, with a guaranteed enchanted bolt activation rate on successful hit. (<Num0>%)
+Fanfare <Num0>
+Favour of the War God: Deal an attack which hits through Protect from Melee and siphons Prayer points equal to the damage dealt. (<Num0>%)
+Feint: Deal an attack which treats your target's defence as if it was reduced by <Num0>%. It will deal a minimum of <Num1>% extra damage. (<Num2>%)
+Fishstabber: Increase your Fishing level by <Num0>. (<Num1>%)
+For use on dragonstone jewellery<br><colNum0>Members Only</col>
+For use on onyx jewellery<br><colNum0>Members Only</col>
+For use on zenyte jewellery<br><colNum0>Members Only</col>
+Gnome Village <Num0>
+Hammer Blow: Deal an attack with <Num0>% more accuracy and a guaranteed +<Num1> damage. (<Num2>%)
+Hamstring: Deal a minimum of <Num0>% extra damage and hamstring player targets, causing them to lose run energy <Num1>x faster for <Num2> minute. (<Num3>%)
+Harmony <Num0>
+Healing Blade: Deal an attack that inflicts <Num0>% more damage with double accuracy, while restoring your Hitpoints and Prayer by <Num1>% and <Num2>% of the damage dealt respectively. (<Num3>%)
+Holds your opponent for <Num0> seconds
+Holds your opponent for <Num0> seconds<br><colNum0>Members Only</col>
+Ice Cleave: Deal an attack that inflicts <Num0>% more damage with double accuracy and freezes your target for <Num1> seconds if it successfully hits. (<Num2>%)
+Immolate: Fire a powerful spell with <Num0>% improved accuracy. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Costs no runes to use. (<Num1>%)
+Impale: Deal an attack with <Num0>% increased Attack and Strength, but with a slower speed. (<Num1>%)
+Invocate: Fire a powerful spell that restores your prayer points by <Num0>% of the damage dealt. Damage scales based upon magic level and can be increased with magic damage boosting equipment. Your prayer points can go above your level, to a maximum of <Num1>. Costs no runes to use. (<Num2>%)
+Jungly <Num0>
+Liquify: Deal an attack with double the chance of hitting that boosts your Strength, Attack and Defence levels by <Num0>% of the damage dealt. Can only be used underwater. (<Num1>%)
+Lumber Up: Increase your Woodcutting level by <Num0>. (<Num1>%)
+Momentum Throw: Deal a fast attack with <Num0>% improved accuracy. (<Num1>%)
+Name: <!PLAYER_NAME0>
+Needs to be cast on a fire obelisk<br><colNum0>Members Only</col>
+Needs to be cast on a water obelisk<br><colNum0>Members Only</col>
+Needs to be cast on an air obelisk<br><colNum0>Members Only</col>
+Needs to be cast on an earth obelisk<br><colNum0>Members Only</col>
+Organ Music <Num0>
+Penance: Deal an attack that inflicts <Num0>% more damage per prayer point that you have used. (<Num1>%)
+Phantom Strike: This does nothing vs non-player targets. As well as dealing a regular attack, your target will suffer that damage again over time. (<Num0>%)
+Power of Death: Reduce all melee damage you receive by <Num0>% for the next minute while the staff remains equipped. Stacks with Protect from Melee. (<Num1>%)
+Powershot: Deal an attack that is guaranteed to hit your target. (<Num0>%)
+Powerstab: Hit up to fourteen enemies surrounding you. (<Num0>%)
+Pulsate: Fire an incredibly powerful burst of energy. (<Num0>%)
+Pulverize: A crushing blow with <Num0>% bonus accuracy that will reduce your target's defence by <Num1>%. (<Num2>%)
+Puncture: Deal two quick slashes with <Num0>% increased accuracy and <Num1>% increased damage. (<Num2>%)
+Quest Points: <Num0>/<Num1>
+Quick Smash: Deal an extra attack instantly. (<Num0>%)
+Rampage: Drain your Attack, Defence, Ranged & Magic levels by <Num0>%, while increasing your Strength by <Num1> levels, plus <Num2>% of the drained levels. (<Num3>%)
+Reduces your opponent's attack by <Num0>%
+Reduces your opponent's attack by <Num0>%<br><colNum0>Members Only</col>
+Reduces your opponent's defence by <Num0>%
+Reduces your opponent's defence by <Num0>%<br><colNum0>Members Only</col>
+Reduces your opponent's strength by <Num0>%
+Reduces your opponent's strength by <Num0>%<br><colNum0>Members Only</col>
+Reduces your opponent's<br>defence by <Num0>%
+Reduces your opponent's<br>strength by <Num0>%
+Reggae <Num0>
+Requires no runes - recharge time <Num0> mins. Warning: This spell takes a long time to cast and will be interrupted by combat.
+Retainer: Traps a vampyre juvenile or juvinate provided they have <Num0>% or less hitpoints remaining. (<Num1>%)
+Rock Knocker: Increase your Mining level by <Num0>. (<Num1>%)
+Run (currently off) Energy <Num0>%
+Run (currently on) Energy <Num0>%
+Sanctuary: Temporarily increase your Defence level by <Num0>. (<Num1>%)
+Saradomin's Lightning: Call upon Saradomin's power to perform an attack that inflicts <Num0>% more melee damage and <Num1>-<Num2> extra magic damage. (<Num3>%)
+Saradomin's Lightning: Call upon Saradomin's power to perform an attack with <Num0>% higher max hit. (<Num1>%)
+Scatter ashes: Casts the highest available demonbane spell. If it kills a demon, it refunds its special attack energy cost, and reduces the next attack delay. (<Num0>%)
+Scorching shackles: A scorching shot with <Num0>% bonus accuracy that will bind and burn enemy demons for <Num1> seconds.) (<Num2>%)
+Sea Shanty <Num0>
+Sever: Deal a slash with increased accuracy that prevents your target from using protection prayers for <Num0> seconds if it successfully hits. (<Num1>%)
+Shares a potion with up to <Num0> nearby players
+Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit, treats your target's defence as if it was reduced to <Num2>%. (<Num3>%)
+Shatter: Increase damage by <Num0>% and accuracy by <Num1>% for one hit. (<Num2>%)
+Shield Bash: Hit surrounding targets within a <Num0>x<Num1> area with <Num2>% increased accuracy. (<Num3>%)
+Shove: Push your target back and stun them for <Num0> seconds. This attack deals no damage. (<Num1>%)
+Show <colNum0>Combat</col> spells
+Show <colNum0>Rapid Healing</col> prayers
+Show <colNum0>Teleport</col> spells
+Show <colNum0>Utility</col> spells
+Slice and Dice: Hit <Num0> times in quick succession, with great accuracy. (<Num1>%)
+Smash: Deal an attack that inflicts <Num0>% more damage and lowers your target's Defence level by <Num1>%. (<Num2>%)
+Smash: Deal an attack which deals a minimum of <Num0>% extra damage and lowers your target's Defence level by <Num1>%. (<Num2>%)
+Snapshot: Fire two arrows within quick succession, but with reduced accuracy. (<Num0>%)
+Snipe: Deal an attack with greatly increased accuracy on unsuspecting targets and that lowers your target's Defence level by the damage dealt. (<Num0>%)
+Soulshot: Deal an attack that is guaranteed to hit your target and lowers your target's Magic level by the damage dealt. (<Num0>%)
+Spear Wall: All damage dealt by this attack is reduced by <Num0>%, but will damage up to sixteen targets surrounding you. After using this attack, you will be immune from melee attacks for <Num1> seconds. (<Num2>%)
+Spear Wall: Will hit twice with second hit deals a damage between <Num0>% - <Num1>% of the first hit damage. After using this attack, you will be immune from melee attacks for <Num2> seconds. (<Num3>%)
+Special Attack: <Num0>%
+Spooky <Num0>
+Summons the power of Guthix <colNum0>Requires Mage Arena I</col>
+Summons the power of Guthix<br><colNum0>Members Only</col>
+Summons the power of Guthix<br><colNum0>Requires Mage Arena I</col>
+Summons the power of Saradomin <colNum0>Requires Mage Arena I</col>
+Summons the power of Saradomin<br><colNum0>Members Only</col>
+Summons the power of Saradomin<br><colNum0>Requires Mage Arena I</col>
+Summons the power of Zamorak <colNum0>Requires Mage Arena I</col>
+Summons the power of Zamorak<br><colNum0>Members Only</col>
+Summons the power of Zamorak<br><colNum0>Requires Mage Arena I</col>
+Summons the wrath of Iban<br><colNum0>Members Only</col>
+Swarm: Fire <Num0> times in quick succession, dealing reduced damage and inflicting poison. (<Num1>%)
+Sweep: If your target is small, adjacent targets may be hit too. Otherwise, your target may be hit a second time, with <Num0>% decreased accuracy. Damage in all cases is increased by <Num1>% of your max hit. (<Num2>%)
+Take a rest and restore Hitpoints <Num0> times faster
+Tans up to <Num0> hides
+Teleports target to Camelot<br><colNum0>Members Only</col>
+Teleports target to Falador<br><colNum0>Members Only</col>
+Teleports target to Lumbridge<br><colNum0>Members Only</col>
+Teleports you near your Target<br><colNum0>Members Only</col>
+Teleports you to Ape Atoll<br><colNum0>Members Only</col>
+Teleports you to Ardougne<br><colNum0>Members Only</col>
+Teleports you to Camelot<br><colNum0>Members Only</col>
+Teleports you to Civitas illa Fortis<br><colNum0>Members Only</col>
+Teleports you to Kourend Castle<br><colNum0>Members Only</col>
+Teleports you to Trollheim <colNum0>Requires Eadgar's Ruse</col>
+Teleports you to Trollheim<br><colNum0>Members Only</col>
+Teleports you to Trollheim<br><colNum0>Requires Eadgar's Ruse</col>
+Teleports you to the Watchtower <colNum0>Requires Watchtower</col>
+Teleports you to the Watchtower<br><colNum0>Members Only</col>
+Teleports you to the Watchtower<br><colNum0>Requires Watchtower</col>
+Teleports you to your house<br><colNum0>Members Only</col>
+Temporarily increases the power of the three arena spells when wearing Mage Arena capes <colNum0>Requires Mage Arena I</col>
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Members Only</col>
+Temporarily increases the power<br>of the three arena spells when wearing Mage Arena capes<br><colNum0>Requires Mage Arena I</col>
+The Judgement: Deal an attack that inflicts <Num0>% more damage with double accuracy. (<Num1>%)
+Time Played: <colNum0><Num0> day, <Num1> hour</col>
+Time Played: <colNum0><Num0> day, <Num1> hours</col>
+Time Played: <colNum0><Num0> day, <Num1> minute</col>
+Time Played: <colNum0><Num0> day, <Num1> minutes</col>
+Time Played: <colNum0><Num0> days, <Num1> hour</col>
+Time Played: <colNum0><Num0> days, <Num1> hours</col>
+Time Played: <colNum0><Num0> days, <Num1> minute</col>
+Time Played: <colNum0><Num0> days, <Num1> minutes</col>
+Time Played: <colNum0><Num0> hour, <Num1> minute</col>
+Time Played: <colNum0><Num0> hour, <Num1> minutes</col>
+Time Played: <colNum0><Num0> hours, <Num1> minute</col>
+Time Played: <colNum0><Num0> hours, <Num1> minutes</col>
+Time Played: <colNum0><Num0> minute
+Time Played: <colNum0><Num0> minutes
+Time Played: <colNum0>a minute
+Total XP: <colNum0><Num0></col>
+Total level: <Num0>
+Toxic Siphon: Deal an attack with <Num0>% increased accuracy that inflicts <Num1>% more damage and heals you for <Num2>% of the damage dealt. (<Num3>%)
+Transfers up to <Num0>% of Hitpoints to a group
+Transfers up to <Num0>% of Hitpoints to another player
+Tribal <Num0>
+Turns Bones into Peaches<br><colNum0>Members Only</col>
+Unleash: Deal an attack which has <Num0>% increased accuracy and <Num1>% increased strength per <Num2>% of the special attack bar used. (<Num3>%)
+Venture <Num0>
+View the various crossbow bolt enchantment spells (<Num0>+ Magic required)
+View the various crossbow bolt enchantment spells (<Num0>+ Magic required)<br><colNum0>Members Only</col>
+View the various jewellery enchantment spells (<Num0>+ Magic required)
+Virulence: Instantly metabolize any poison you are suffering from to buff your next attack by that amount of damage. (<Num0>%)
+W<Num0>
+Warstrike: Deal an attack, with double accuracy, that inflicts <Num0>% more damage and drains one of your target's combat stats by the damage dealt. (<Num1>%)
+Weaken: Temporarily drain your target's Attack, Strength and Defence by <Num0>%. Is three times as effective against demons. (<Num1>%)
+Weaken: Temporarily drain your target's Attack, Strength and Defence by <Num0>%. Is twice as effective against demons. (<Num1>%)
+Wild Stab: Deal an attack which hits through Protect from Melee with <Num0>% increased accuracy and damage. (<Num1>%)
+Wilderness <Num0>
+Wrath of Amascut: Perform an attack with <Num0>% increased accuracy and <Num1>% increased damage, but with halved attack speed. If hit, the opponent will take <Num2>% increased damage for the next <Num3> seconds. This special attack can only be used within the Tombs of Amascut. (<Num4>%)
+You are currently talking in the <colNum0><!ANY_TRANSLATED0></col> channel.
+You have currently loaded <colNum0><!PLAYER_NAME0></col>, which is not a PvP Arena group.

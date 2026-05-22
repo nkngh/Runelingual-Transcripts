@@ -1,0 +1,1570 @@
+english	translation	category	sub_category	source
+Study	Tanulmányozás	actions	item	Fire
+Remove	Eltávolítás	actions	item	Oak lectern
+Lay	Lefektetés	actions	item	Bird snare
+Activate	Aktiválás	actions	item	Magic box
+Crush	Zúzás	actions	item	Smouldering heart
+Eat-from	Evés innen	actions	item	Smouldering pile of flesh
+Talk-to	Megszólítás	actions	npc	Tool Leprechaun
+Exchange	Csere	actions	npc	Tool Leprechaun
+Attack	Támadás	actions	npc	Molanisk
+Trade	Kereskedés	actions	npc	Hudo
+Travel	Utazás	actions	npc	Rug Merchant
+Pet	Simogatás	actions	npc	Dog
+Dyes	Festékek	actions	npc	Aggie
+Challenge	Kihívás	actions	npc	Yama
+Guess-letter	Betű tippelése	actions	npc	Hangman game
+Banish	Száműzés	actions	npc	Hangman game
+Reset	Visszaállítás	actions	npc	Hangman game
+Hit	Ütés	actions	npc	Combat stone
+Dismiss	Elküldés	actions	npc	Dr Jekyll
+Rewards	Jutalmak	actions	npc	Emblem Trader
+Skull	Koponya	actions	npc	Emblem Trader
+Pay	Fizetés	actions	npc	Ayesha
+Armour	Páncél	actions	npc	Ironman tutor
+Setup	Beállítás	actions	npc	Ironman tutor
+Check-pets	Állatok ellenőrzése	actions	npc	Leagues Tutor
+Collect-items	Tárgyak gyűjtése	actions	npc	Leagues Tutor
+Claim-trophies	Trófeák átvétele	actions	npc	Leagues Tutor
+Pick-up	Felvétel	actions	npc	Dark core
+Metamorphosis	Metamorfózis	actions	npc	Dark core
+Pick	Szedés	actions	npc	Strange plant
+Grab	Megragadás	actions	npc	Suspect
+Pop	Kipukkasztás	actions	npc	Balloon Animal
+Kill	Megölés	actions	npc	Pheasant
+Disturb	Zavarás	actions	npc	Phosani's Nightmare
+Gauntlets	Kesztyűk	actions	npc	Avan
+Lure	Csalivetés	actions	npc	Rod Fishing spot
+Bait	Csali	actions	npc	Rod Fishing spot
+Pickpocket	Zsebelés	actions	npc	Guard
+Assignment	Megbízatás	actions	npc	Vannaka
+Search	Keresés	actions	npc	Entomologist
+Confront	Szembesítés	actions	npc	Mi-Gor
+Transport	Szállítás	actions	npc	Brother Tranquility
+Intimidate	Megfélemlítés	actions	npc	Zombie swab
+Fish	Halászat	actions	npc	Fishing spot
+Smash-ice	Jég szétzúzása	actions	npc	Ice block
+Shear	Nyírás	actions	npc	Sheep
+Knock-Out	Kiütés	actions	npc	Bandit
+Bank	Bank	actions	npc	Banker
+Collect	Gyűjtés	actions	npc	Banker
+Check-Approval	Jóváhagyás ellenőrzése	actions	npc	Arnor
+Tuxedo-time	Frakkidő	actions	npc	Larry
+Mines	Bányák	actions	npc	Dartog
+Cellar	Pince	actions	npc	Dartog
+Dream	Álmodozás	actions	npc	Dominic Onion
+Take-boat	Csónak felvétele	actions	npc	Monk of Entrana
+Inspect	Vizsgálat	actions	npc	Lumbridge Guide
+Trade-General-Store	Általános bolt	actions	npc	Razmire Keelgan
+Trade-Builders-Store	Építők boltja	actions	npc	Razmire Keelgan
+Haircut	Hajvágás	actions	npc	Hairdresser
+Shave	Borotválás	actions	npc	Hairdresser
+Makeover	Átalakítás	actions	npc	Makeover Mage
+Talk-To	Megszólítás	actions	npc	Tarquin
+Quick-falcon	Gyors sólyom	actions	npc	Matthias
+Retrieve	Visszaszerzés	actions	npc	Gyr Falcon
+Give-Sword	Kard adása	actions	npc	Tindel Marchant
+Mine	Bányászat	actions	npc	Elemental rock
+Push	Tolás	actions	npc	Trolley
+Pull	Húzás	actions	npc	Trolley
+Big-push	Nagy lökés	actions	npc	Trolley
+Place	Elhelyezés	actions	npc	Trolley
+Claim-arrows	Nyilak átvétele	actions	npc	Rantz
+Inflate	Felfújás	actions	npc	Swamp toad
+Pluck	Tépés	actions	npc	Chompy bird
+Shout-to	Odakiabálás	actions	npc	Nickolaus
+Quick-travel	Gyors utazás	actions	npc	Desert eagle
+Walk-past	Elhaladás	actions	npc	Eagle
+Threaten	Fenyegetés	actions	npc	Kebbit
+Small Net	Kis háló	actions	npc	Fishing spot
+Net	Háló	actions	npc	Fishing spot
+Ammo	Lőszer	actions	npc	Leon
+Cage	Ketreccsapda	actions	npc	Fishing spot
+Harpoon	Szigonyozás	actions	npc	Fishing spot
+Big Net	Nagy háló	actions	npc	Fishing spot
+Use-rod	Horgász bot használata	actions	npc	Fishing spot
+Escort	Kíséret	actions	npc	Smiddi Ryak (hard)
+Supply	Ellátás	actions	npc	Smiddi Ryak (hard)
+Claim-runes	Rúnák átvétele	actions	npc	Lundail
+Chase	Üldözés	actions	npc	Cat
+Interact	Interakció	actions	npc	Cat
+Catch	Fogás	actions	npc	Baby impling
+Get-rewards	Jutalmak szerzése	actions	npc	Commander Connad
+Tutorial	Oktatóanyag	actions	npc	Captain Cain
+Start-minigame	Minijáték indítása	actions	npc	Guardian mummy
+Teleport	Teleportálás	actions	npc	Apprentice
+Join-Crew	Csapat csatlakozás	actions	npc	San Fan
+Join-Team	Csapat csatlakozás	actions	npc	Honest Jimmy
+Pick-pocket	Zsebelés	actions	npc	Fairy Godfather
+Craft-goods	Áruk készítése	actions	npc	Thakkrad Sigmundson
+Rellekka	Rellekka	actions	npc	Maria Gunnars
+Neitiznot	Neitiznot	actions	npc	Maria Gunnars
+Jatizso	Jatizso	actions	npc	Mord Gunnars
+Watch-shouting	Kiabálás figyelése	actions	npc	Guard
+Kick	Rúgás	actions	npc	Bed
+Claim-Tokens	Zsetonok átvétele	actions	npc	Lorelai
+History	Előzmények	actions	npc	Grand Exchange Clerk
+Sets	Szettek	actions	npc	Grand Exchange Clerk
+Prices	Árak	actions	npc	Brugsen Bursen
+Exchange fire cape	Tűzköpeny cseréje	actions	npc	TzHaar-Mej-Jal
+Destroy	Megsemmisítés	actions	npc	Door-support
+Tickets	Jegyek	actions	npc	Cart conductor
+Listen-to	Hallgatás	actions	npc	Red Axe Director
+Claim-Shield	Pajzs átvétele	actions	npc	Gamfred
+talk	megszólítás	actions	npc	Gate of War
+Get job (easy)	Munka kapása (könnyű)	actions	npc	Gianne jnr.
+Get job (hard)	Munka kapása (nehéz)	actions	npc	Gianne jnr.
+Repairs	Javítások	actions	npc	Dark Mage
+Sober-Up	Kijózanítás	actions	npc	Skippy
+Walk here	Séta ide	actions	npc	Purepker895
+Follow	Követés	actions	npc	Purepker895
+Pay (north-west)	Fizetés (észak-nyugat)	actions	npc	Elstan
+Pay (south-east)	Fizetés (dél-kelet)	actions	npc	Elstan
+Pay (north)	Fizetés (észak)	actions	npc	Dantaera
+Pay (south)	Fizetés (dél)	actions	npc	Dantaera
+Detach	Leválasztás	actions	npc	Combat dummy
+Upgrade	Fejlesztés	actions	npc	Combat dummy
+Remove	Eltávolítás	actions	npc	Combat dummy
+Shoo	Hessegetés	actions	npc	Clockwork cat
+Fur Clothing	Prém ruházat	actions	npc	Asyff
+Shoo-away	Elzavarás	actions	npc	Stray dog
+Tease	Ingerkedés	actions	npc	Sabre-toothed kyatt
+Leave	Elhagyás	actions	npc	Squire
+Claim-slime	Nyálka átvétele	actions	npc	Robin
+Use	Használat	actions	npc	Portal
+Exit	Kilépés	actions	npc	Portal
+Relocate	Áthelyezés	actions	npc	Estate agent
+Redecorate	Újradekorálás	actions	npc	Estate agent
+Buy-plank	Deszka vásárlása	actions	npc	Sawmill operator
+Age	Korbecslés	actions	npc	Hans
+Tackle	Megfogás	actions	npc	Gnome baller
+Pass-to	Átadás	actions	npc	Gnome winger
+Claim	Átvétel	actions	npc	Ranged combat tutor
+Buy	Vásárlás	actions	npc	Fadli
+Heal	Gyógyítás	actions	npc	A'abla
+Stroke	Simogatás	actions	npc	Gertrude's cat
+Climb-over	Átmászás	actions	npc	Pile of bones
+Melt	Olvasztás	actions	npc	Crust of ice
+Clear	Törlés	actions	npc	Furnace grate
+Take	Felvétel	actions	npc	Iron pickaxe
+Steal-from	Lopás innen	actions	npc	Digsite workman
+Pay-fare	Viteldíj fizetése	actions	npc	Captain Tobias
+Pay-Fare	Viteldíj fizetése	actions	npc	Customs officer
+Go-inside	Bemenetel	actions	npc	House
+Pirate's Cove	Pirate's Cove	actions	npc	Lokar Searunner
+Deposit-items	Tárgyak letétele	actions	npc	Peer the Seer
+Miscellania	Miscellania	actions	npc	Sailor
+Prod	Bökés	actions	npc	Red Sheep
+Return-Home	Visszatérés otthonra	actions	npc	Bill Teach
+Devices	Eszközök	actions	npc	Ava
+Chop	Vágás	actions	npc	Undead tree
+Roll	Gördülés	actions	npc	Boulder
+Watch	Figyelés	actions	npc	Mercenary Captain
+Buy-pass	Bérlet vásárlása	actions	npc	Shantay
+Pass	Áthaladás	actions	npc	Shantay Guard
+Fly	Repülés	actions	npc	Auguste
+Decant	Átöntés	actions	npc	Zahur
+Clean	Tisztítás	actions	npc	Zahur
+Make unfinished potion(s)	Befejezetlen főzet(ek) készítése	actions	npc	Zahur
+Shoot	Lövés	actions	npc	Target
+Shop	Bolt	actions	npc	Ezekial Lovecraft
+Board	Felszállás	actions	npc	Ogre boat
+Potions	Főzetek	actions	npc	Apothecary
+Grab-feather	Toll megragadása	actions	npc	Desert Phoenix
+Take-from	Felvétel innen	actions	npc	Jig cart
+Coffer	Széf	actions	npc	Yohnus
+Attract	Vonzás	actions	npc	Light creature
+Call-Over	Odahívás	actions	npc	Zombie
+Insult	Sértegetés	actions	npc	Zombie
+Scare	Megijesztés	actions	npc	Zombie
+Skin	Bőrözés	actions	npc	Swamp snake
+Burn	Égetés	actions	npc	Barricade
+Extinguish	Eloltás	actions	npc	Barricade
+Quick-withdraw	Gyors kivétel	actions	npc	Elnock Inquisitor
+Check-gates	Kapuk ellenőrzése	actions	npc	Wandering impling
+Sand	Homokozás	actions	npc	Bert
+Request-supplies	Készletek kérése	actions	npc	Bork Sigmundson
+Sew	Varrás	actions	npc	Patchy
+Check	Ellenőrzés	actions	npc	Probita
+View Laps	Körök megtekintése	actions	npc	Grace
+Toggle Counter	Számláló váltása	actions	npc	Grace
+Tap	Megérintés	actions	npc	Skullball
+Show-Goal	Cél megmutatása	actions	npc	Skullball
+Give-Stick	Bot adása	actions	npc	Agility Trainer
+Waterbirth Island	Waterbirth Island	actions	npc	Jarvald
+Take-flyer	Szórólap felvétele	actions	npc	Ali the Leaflet Dropper
+Trade-with	Kereskedés	actions	npc	Rewards Guardian
+Trade-Co-op	Szövetkezeti kereskedés	actions	npc	Gabooty
+Trade-Drinks	Italok kereskedése	actions	npc	Gabooty
+Send-parcel	Csomag küldése	actions	npc	Rionasta
+Peek	Kukucskálás	actions	npc	Eye
+Deposit-box	Letéti doboz	actions	npc	Financial Seer
+Move	Mozgatás	actions	npc	Boulder
+Log-storage	Rönktár	actions	npc	Friendly Forester
+Claim Sand	Homok átvétele	actions	npc	Drew
+Deposit buckets	Vedrek letétele	actions	npc	Drew
+Toggle warnings	Figyelmeztetések váltása	actions	npc	Doomsayer
+Remove PvP Protection	PvP védelem eltávolítása	actions	npc	Doomsayer
+Observe	Megfigyelés	actions	npc	Maze Guardian
+New-maze	Új labirintus	actions	npc	Maze Guardian
+Maxhit Variant	Max sebzés változat	actions	npc	Combat Test
+Kill-count	Ölésszámláló	actions	npc	Soldier
+Canyon-count (east)	Kanyonszámláló (kelet)	actions	npc	Soldier
+Canyon-count (west)	Kanyonszámláló (nyugat)	actions	npc	Soldier
+Pay (north-east)	Fizetés (észak-kelet)	actions	npc	Marisi
+Pay (south-west)	Fizetés (dél-nyugat)	actions	npc	Marisi
+Task	Feladat	actions	npc	Captain Khaled
+Help	Segítség	actions	npc	Villia
+Spellbook	Varázskönyv	actions	npc	Tyss
+Climb-on	Felmászás	actions	npc	Stunted demonic gorilla
+Glider	Sárkányrepülő	actions	npc	Captain Shoracks
+Watermill	Watermill	actions	npc	Mistag
+Join	Csatlakozás	actions	npc	Lisa
+Locking	Zárás	actions	npc	Rift guardian
+Check Scores	Pontszám ellenőrzése	actions	npc	Captain Kalt
+Contract	Szerződés	actions	npc	Amy
+Last-tier contract	Utolsó szintű szerződés	actions	npc	Amy
+Port Sarim	Port Sarim	actions	npc	Captain Magoro
+Port Piscarilius	Port Piscarilius	actions	npc	Captain Magoro
+Feed	Etetés	actions	npc	Lux grub
+Douse	Eloltás	actions	npc	Fire
+Cut	Vágás	actions	npc	Meat tree
+Smash	Szétzúzás	actions	npc	Jewelled Crab
+Claim-cape	Köpeny átvétele	actions	npc	Captain Rimor
+Set-difficulty	Nehézség beállítása	actions	npc	Captain Rimor
+Fight	Harc	actions	npc	Abigale
+Bars	Rudak	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	Ásványok váltása	actions	npc	Belona
+Kitten	Macskakölök	actions	npc	Gertrude
+Toggle-vials	Üvegcsék váltása	actions	npc	Barbarian guard
+Redeem-code	Kód beváltása	actions	npc	Recruiter
+Purchase Amulet	Amulett vásárlása	actions	npc	Wizard Mizgog
+Staves	Varázspálcák	actions	npc	Dark Mage
+Deboard	Leszállás	actions	npc	Barge guard
+Toggle Fossils	Fosszíliák váltása	actions	npc	Peter
+Poke	Bökés	actions	npc	Bobbing fossil
+Training	Edzés	actions	npc	Mairin
+Harvest	Aratás	actions	npc	Herbiboar
+Stun	Elkábítás	actions	npc	Hoop Snake
+Murder	Meggyilkolás	actions	npc	Conrad King
+Quick-Travel	Gyors utazás	actions	npc	Barge guard
+Escape	Menekülés	actions	npc	Brundt the Chieftain
+Scry	Jóslás	actions	npc	Abigaila
+Claim Pet Rock	Háziállat kő átvétele	actions	npc	Askeladden
+Standard Variant	Normál változat	actions	npc	Combat Test (maxhit)
+Get-log	Rönk szerzése	actions	npc	The Collector
+Claim-log-rewards	Napló jutalmak átvétele	actions	npc	The Collector
+Get bird	Madár fogása	actions	npc	Alry the Angler
+Pay (Fruit tree)	Fizetés (Gyümölcsfa)	actions	npc	Nikkie
+Pay (tree patch)	Fizetés (fafolt)	actions	npc	Rosie
+Pay (Redwood tree)	Fizetés (Vörösfenyő)	actions	npc	Alexandra
+Pay (Spirit tree)	Fizetés (Szellemfa)	actions	npc	Latlink Fastbell
+Swap	Csere	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	Fizetés (Celastrus fa)	actions	npc	Taylor
+Land's End	Land's End	actions	npc	Veos
+Join Castle Wars	Csatlakozás: Castle Wars	actions	npc	Saradominist recruiter
+Holiday-items	Ünnepi tárgyak	actions	npc	Diango
+Tan-hides	Bőr cserzése	actions	npc	Eodan
+Ardougne	Ardougne	actions	npc	Captain Barnaby
+Brimhaven	Brimhaven	actions	npc	Captain Barnaby
+Rimmington	Rimmington	actions	npc	Captain Barnaby
+Enchant	Varázslat	actions	npc	Eluned
+Quick-escape	Gyors menekülés	actions	npc	Elena
+Investigate	Vizsgálat	actions	npc	Elderly Elf
+Fix-exoskeleton	Exoszkeleton javítása	actions	npc	Elderly Elf
+Chop down	Kivágás	actions	npc	Tree
+Sing	Éneklés	actions	npc	Reese
+Statistics	Statisztikák	actions	npc	Ystwyth
+Repair	Javítás	actions	npc	Aneirin
+Open Adventure Paths	Kalandösvények megnyitása	actions	npc	Adventurer Jon
+Island of Stone	Island of Stone	actions	npc	Haskell
+Charter	Bérelt hajó	actions	npc	Trader Stan
+Charter-to Brimhaven	Hajó bérlése: Brimhaven	actions	npc	Trader Stan
+Charter-to Catherby	Hajó bérlése: Catherby	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	Hajó bérlése: Mos Le'Harmless	actions	npc	Trader Stan
+Charter-to Musa Point	Hajó bérlése: Musa Point	actions	npc	Trader Stan
+Charter-to Port Khazard	Hajó bérlése: Port Khazard	actions	npc	Trader Stan
+Charter-to Port Phasmatys	Hajó bérlése: Port Phasmatys	actions	npc	Trader Stan
+Charter-to Port Sarim	Hajó bérlése: Port Sarim	actions	npc	Trader Stan
+Charter-to Shipyard	Hajó bérlése: Hajógyár	actions	npc	Trader Stan
+Charter-to Corsair Cove	Hajó bérlése: Corsair Cove	actions	npc	Trader Stan
+Charter-to Prifddinas	Hajó bérlése: Prifddinas	actions	npc	Trader Stan
+Charter-to Port Tyras	Hajó bérlése: Port Tyras	actions	npc	Trader Stan
+Charge	Töltés	actions	npc	Totem
+Spectate	Nézőként részvétel	actions	npc	The Nightmare
+Convert-shards	Cserepek átalakítása	actions	npc	Noranna Tytanin
+Loot	Zsákmányolás	actions	npc	Grave
+Lap-count	Körszámláló	actions	npc	Bobawu
+Value	Érték	actions	npc	Skully
+Settings	Beállítások	actions	npc	Skully
+Ungael	Ungael	actions	npc	Torfinn
+Glider-to Ta Quir Priw	Repülés: Ta Quir Priw	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	Repülés: Gandius	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	Repülés: Kar-Hewo	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	Repülés: Lemanto Andra	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	Repülés: Sindarpos	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	Repülés: Ookookolly Undri	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	Repülés: Lemantolly Undri	actions	npc	Captain Dalbur
+Other-services	Egyéb szolgáltatások	actions	npc	Thessalia
+Leave-tutorial	Oktatóanyag elhagyása	actions	npc	Nomad
+Fill	Feltöltés	actions	npc	Ammunition crate
+Check-ammo	Lőszer ellenőrzése	actions	npc	Ammunition crate
+Forfeit	Feladás	actions	npc	Captain Pudi
+Locks	Zárak	actions	npc	Dampe
+Take-net	Háló felvétele	actions	npc	Spirit Angler
+Ferry	Komp	actions	npc	Ferryman Sathwood
+Awaken	Felébresztés	actions	npc	Rubble
+Items	Tárgyak	actions	npc	Clerk
+Buy-sphere	Gömb vásárlása	actions	npc	Oldak
+Power-up	Feltöltés	actions	npc	The Great Guardian
+Buy-crystals	Kristályok vásárlása	actions	npc	Rick
+Quick-lock	Gyors zárás	actions	npc	Apprentice Tamara
+Strike	Ütés	actions	npc	Hill Giant
+Hand-in	Átadás	actions	npc	Kovac
+Commission	Megbízás	actions	npc	Kovac
+Talk	Megszólítás	actions	npc	Hannibal
+Proceed	Folytatás	actions	npc	Osmumten
+Begin	Kezdés	actions	npc	Osmumten
+Water	Öntözés	actions	npc	Palm of Resourcefulness
+Check-costume	Jelmez ellenőrzése	actions	npc	Costumed child
+Trick-or-treat	Csokit vagy csalunk	actions	npc	Generous Treater
+Scare-away	Elriasztás	actions	npc	Spooky dog
+Tend-to	Gondozás	actions	npc	Flowering bush (Lilac)
+Emote	Emóció	actions	npc	Wisp
+Deposit	Betét	actions	npc	Woodcutting Leprechaun
+Cast	Varázslat	actions	npc	Fishing spot
+Reset-room	Szoba visszaállítása	actions	npc	Cerebral pathfinder
+Take-lure	Csali felvétele	actions	npc	Light leech
+Build	Építés	actions	npc	Unfinished Beehive
+Disarm	Lefegyverzés	actions	npc	Fox trap
+Prune	Nyírás	actions	npc	Entling
+Prune-top	Teteje nyírása	actions	npc	Entling
+Prune-back	Visszavágás	actions	npc	Entling
+Prune-sides	Oldalak nyírása	actions	npc	Entling
+Metamorph	Átalakulás	actions	npc	Bran
+Listen	Hallgatás	actions	npc	Key Master
+Charter-to Port Piscarilius	Hajó bérlése: Port Piscarilius	actions	npc	Trader Stan
+Charter-to Land's End	Hajó bérlése: Land's End	actions	npc	Trader Stan
+Mark	Megjelölés	actions	npc	Guard
+Unmark	Jelölés törlése	actions	npc	Guard
+Charter-to Civitas illa Fortis	Hajó bérlése: Civitas illa Fortis	actions	npc	Trader Stan
+Charter-to Aldarin	Hajó bérlése: Aldarin	actions	npc	Trader Stan
+Charter-to Sunset Coast	Hajó bérlése: Naplementepart	actions	npc	Trader Stan
+Charter-to Tempestus	Hajó bérlése: Tempestus	actions	npc	Trader Stan
+Start-wave	Hullám indítása	actions	npc	Minimus
+Scoreboard	Rangsor	actions	npc	Eyatlalli
+Rumour	Pletyka	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	Pletyka beállítások	actions	npc	Guild Scribe Verity
+Fur-clothing	Prém ruházat	actions	npc	Pellem
+Recharge-whistle	Síp feltöltése	actions	npc	Soar Leader Pitri
+Trade-in	Becserélés	actions	npc	Oriana
+Last-destination	Utolsó célállomás	actions	npc	Renu
+Plant-orb	Gömb elhelyezése	actions	npc	Surok Magis
+Choose	Választás	actions	npc	Tenoch
+Check-on	Ellenőrzés	actions	npc	Man
+Stats	Statisztikák	actions	npc	Worm Tongue
+Sacrifice	Feláldozás	actions	npc	Branda the Fire Queen
+Take pages	Lapok felvétele	actions	npc	Branda the Fire Queen
+Search	Keresés	actions	object	Crate
+Enter	Belépés	actions	object	Cave Entrance
+Open	Megnyitás	actions	object	Door
+Inspect	Vizsgálat	actions	object	Broken multicannon
+Fire	Tüzelés	actions	object	Dwarf multicannon
+Pick-up	Felvétel	actions	object	Dwarf multicannon
+Empty	Kiürítés	actions	object	Dwarf multicannon
+Climb-down	Lemászás	actions	object	Ladder
+Climb-up	Felmászás	actions	object	Ladder
+Climb-over	Átmászás	actions	object	Rock pile
+Prod	Bökés	actions	object	Sacks
+Pull	Húzás	actions	object	Lever
+Go-through	Áthaladás	actions	object	Gate
+Fish	Halászat	actions	object	Fishing spot
+Squeeze-through	Átpréselés	actions	object	Loose Railing
+Check	Ellenőrzés	actions	object	Vine
+Pray-at	Imádkozás itt	actions	object	Chaos altar
+Smash	Szétzúzás	actions	object	Giant crystal
+Hide-in	Elbújás ide	actions	object	Crate
+Take-from	Felvétel innen	actions	object	Beehive
+Cross	Átkelés	actions	object	Gangplank
+Knock-at	Kopogás	actions	object	Large door
+Search for traps	Csapdák keresése	actions	object	Lever
+Shut	Bezárás	actions	object	Open chest
+Cook	Főzés	actions	object	Cooking range
+Burst	Robbantás	actions	object	Party Balloon
+Jump-up	Felugrás	actions	object	Rocks
+Operate	Kezelés	actions	object	Winch
+Pick	Szedés	actions	object	Potato
+Close	Bezárás	actions	object	Large open cupboard
+Play	Játék	actions	object	Church organ
+Use	Használat	actions	object	Crevice
+Peek	Kukucskálás	actions	object	Crevice
+Private	Privát	actions	object	Crevice
+Jump	Ugrás	actions	object	Broken Fence
+Steal-from	Lopás innen	actions	object	Tea stall
+Take	Felvétel	actions	object	Small fishing net
+Exit	Kilépés	actions	object	Cave exit
+Suck	Szívás	actions	object	Swamp bubbles
+Reset	Visszaállítás	actions	object	Shaking box
+Slash	Csapás	actions	object	Web
+Weave	Szövés	actions	object	Loom
+Attack	Támadás	actions	object	Dummy
+Read	Olvasás	actions	object	Plaque
+Chop down	Kivágás	actions	object	Tree
+Push	Tolás	actions	object	Wall
+Take-1	1 felvétele	actions	object	Bandage table
+Take-5	5 felvétele	actions	object	Bandage table
+Take-10	10 felvétele	actions	object	Bandage table
+Commune	Kapcsolat	actions	object	Lever
+Board	Felszállás	actions	object	Log raft
+Swim to	Úszás ide	actions	object	Rock
+Take treasure	Kincs felvétele	actions	object	Chalice
+Climb	Mászás	actions	object	Dead Tree
+Get in	Beszállás	actions	object	Barrel
+Chop	Vágás	actions	object	Achey Tree
+Drink-from	Ivás innen	actions	object	Cauldron
+Smelt	Olvasztás	actions	object	Furnace
+Smith	Kovácsolás	actions	object	Anvil
+Hit	Ütés	actions	object	Dummy
+Fill	Feltöltés	actions	object	Crate
+Look-at	Megnézés	actions	object	Mound of earth
+Investigate	Vizsgálat	actions	object	Strange looking stone
+Craft	Tárgy készítése	actions	object	Smashed table
+Disembark	Leszállás	actions	object	Crude raft
+Pay-fare	Viteldíj fizetése	actions	object	Travel cart
+Listen-at	Hallgatózás	actions	object	Grill
+Pan	Mosás	actions	object	Panning point
+Shoot	Lövés	actions	object	Gnome goal
+Deposit	Betét	actions	object	Chest
+Climb-on	Felmászás	actions	object	Barrel
+Kick	Rúgás	actions	object	Loose panel
+Rotate	Forgatás	actions	object	Crane
+Walk-down	Lemenetel	actions	object	Spooky stairs
+Walk-up	Felmenetel	actions	object	Spooky stairs
+Repair	Javítás	actions	object	Hole
+Walk-Down	Lemenetel	actions	object	Stairs
+Walk-Up	Felmenetel	actions	object	Stairs
+Mine	Bányászat	actions	object	Rock slide
+Look at	Megnézés	actions	object	Winch
+Cut	Vágás	actions	object	Kharidian cactus (Healthy)
+Watch	Figyelés	actions	object	Mine door entrance
+Look-in	Benézés	actions	object	Barrel
+Look in	Benézés	actions	object	Barrel
+Collect	Gyűjtés	actions	object	Bank chest
+Climb-to	Felmászás ide	actions	object	Rock
+Climb down	Lemászás	actions	object	Rock
+Walk through	Áthaladás	actions	object	Mine cave
+Walk-through	Áthaladás	actions	object	Tent door
+Remove	Eltávolítás	actions	object	Hellhound
+Steal-From	Lopás innen	actions	object	Counter
+Prospect	Felderítés	actions	object	Rock of Dalgroth
+Leave	Elhagyás	actions	object	Cave exit
+Jump-Over	Átugrás	actions	object	Gap
+Turn	Fordítás	actions	object	Sewer valve
+Look-under	Alanézés	actions	object	Potted plant
+Step-into	Belépés	actions	object	Sparkling pool
+Chop-down	Kivágás	actions	object	Jungle tree
+Touch	Megérintés	actions	object	Fire Wall
+search	keresés	actions	object	Desk
+Smash-to-bits	Darabokra zúzás	actions	object	Boulder
+Jump-over	Átugrás	actions	object	Jagged wall
+Look	Nézés	actions	object	Carved rock
+Lift	Emelés	actions	object	Totem pole
+Shake	Rázás	actions	object	Leafy Palm Tree
+Cut down	Kivágás	actions	object	Arctic pine tree
+Forfeit	Feladás	actions	object	Entrance
+Bank	Bank	actions	object	Open chest
+Buy	Vásárlás	actions	object	Crate
+Pass-through	Áthaladás	actions	object	Tunnel
+Descend	Leereszkedés	actions	object	Cave
+Ascend	Feljutás	actions	object	Cave
+Picklock	Zárfeltörés	actions	object	Gate
+Fire-at	Tüzelés ide	actions	object	Guide rope
+Unlock	Feloldás	actions	object	Locked Ogre chest
+Study	Tanulmányozás	actions	object	Monument
+Take-cutting	Dugvány felvétele	actions	object	Budding branch
+Walk-on	Átkelés	actions	object	Balancing rope
+Walk-across	Átkelés	actions	object	Balancing ledge
+Swing-across	Átlendülés	actions	object	Monkey bars
+Swing-on	Hintázás	actions	object	Rope swing
+Jump-on	Felugrás	actions	object	Pillar
+Tag	Megjelölés	actions	object	Ticket Dispenser
+Climb-across	Átmászás	actions	object	Hand holds
+Toggle-warning	Figyelmeztetés váltása	actions	object	Cave entrance
+Dump	Kirakás	actions	object	Compost Bin
+Step-over	Átlépés	actions	object	Tripwire
+Pass	Áthaladás	actions	object	Sticks
+Reinforce	Megerősítés	actions	object	Temple wall
+Light	Meggyújtás	actions	object	Fire altar
+Build	Építés	actions	object	Funeral Pyre
+Summon	Idézés	actions	object	Strange altar
+Cut-branch	Ág vágása	actions	object	Swaying tree
+Put-inside	Betétel	actions	object	Pipe
+Spin	Fonás	actions	object	Spinning wheel
+Capture	Elfogás	actions	object	Standard Stand
+Jump-to	Ugrás ide	actions	object	Stepping stone
+Collapse	Összeomlás	actions	object	Cave wall
+Top-Floor	Felső szint	actions	object	Ladder
+Lock	Zárás	actions	object	Door
+View	Megtekintés	actions	object	Scoreboard
+View Stats	Statisztikák megtekintése	actions	object	Scoreboard
+Remove board advert	Tábla hirdetés eltávolítása	actions	object	Portal
+Remove-room	Szoba eltávolítása	actions	object	Dungeon entrance
+Jump-across	Átugrás	actions	object	Basalt rock
+Top-floor	Felső szint	actions	object	Staircase
+Bottom-floor	Alsó szint	actions	object	Staircase
+View-game	Játék megtekintése	actions	object	Table
+Weed	Gyomlálás	actions	object	Herbs
+Jump off	Leugrik	actions	object	End of bridge
+Talk-to	Megszólítás	actions	object	Awowogei
+Pick-lock	Zárfeltörés	actions	object	Jail Door
+Steal from	Lopás innen	actions	object	Crafting Stall
+Crawl-down	Lebújás	actions	object	Cart tunnel
+Crawl-through	Átbújás	actions	object	Cart tunnel
+Go-down	Lemenetel	actions	object	Lift
+Go-up	Felmenetel	actions	object	Lift
+Slide	Csúszás	actions	object	Slope
+Squeeze-past	Elpréselés	actions	object	Stalagmite
+Wind	Feltekerés	actions	object	Clock
+Dig	Ásás	actions	object	Grave
+Pick-Lock	Zárfeltörés	actions	object	Trapdoor
+Take-axe	Fejsze felvétele	actions	object	Logs
+Ring-bell	Harang csörgése	actions	object	Antiques Shop Stall
+Listen-to	Hallgatás	actions	object	Shining pool
+Pick-from	Szedés innen	actions	object	Thorny bushes
+Dig-up	Kiásás	actions	object	Mud
+Dig-below	Alásás	actions	object	Roots
+Jump-through	Átjutás	actions	object	Wall of flame
+Take-beer	Sör felvétele	actions	object	Table
+Hide-behind	Elbújás mögé	actions	object	Cactus
+Smoke	Füstölés	actions	object	Smokey well
+Look-into	Benézés	actions	object	Mystical mirror
+Step-off	Lelépés	actions	object	Ice ledge
+Climb-through	Átmászás	actions	object	Hole
+Collect-from	Gyűjtés innen	actions	object	Weeping wall
+Sit-on	Ráülés	actions	object	Chair
+Upgrade	Fejlesztés	actions	object	Tools
+Work-at	Munka itt	actions	object	Workbench
+Make-helmet	Sisak készítése	actions	object	Helmet pluming stand
+Ring	Csörgés	actions	object	Bell
+Quick-board	Gyors felszállás	actions	object	Swamp Boaty
+Ride	Lovaglás	actions	object	Train cart
+Observe	Megfigyelés	actions	object	Telescope
+Leave-area	Terület elhagyása	actions	object	Ladder
+Crack	Feltörés	actions	object	Wall safe
+Pull-spade	Ásó húzása	actions	object	Stone Door
+Guide	Útmutató	actions	object	Belladonna patch
+Rake	Gereblyézés	actions	object	Belladonna patch
+Cure	Gyógyítás	actions	object	Diseased Belladonna
+Clear	Törlés	actions	object	Dead Belladonna
+Check-health	Egészség ellenőrzése	actions	object	Cadavaberry bush
+Prune	Nyírás	actions	object	Diseased cadavaberry bush
+Pick-spine	Tüske szedése	actions	object	Cactus
+Pick-fruit	Gyümölcs szedése	actions	object	Calquat tree
+Gear	Felszerelés	actions	object	Supplies
+Stats	Statisztikák	actions	object	Supplies
+Standard spellbook	Alap varázskönyv	actions	object	Altar
+Ancient spellbook	Ancient spellbook	actions	object	Altar
+Lunar spellbook	Lunar spellbook	actions	object	Altar
+Arceuus spellbook	Arceuus spellbook	actions	object	Altar
+Pick-apple	Alma szedése	actions	object	Apple tree
+Pick-pineapple	Ananász szedése	actions	object	Pineapple plant
+Pick-banana	Banán szedése	actions	object	Banana tree
+Pick-leaf	Levél szedése	actions	object	Curry tree
+Pick-orange	Narancs szedése	actions	object	Orange tree
+Pick-coconut	Kókusz szedése	actions	object	Palm tree
+Harvest	Aratás	actions	object	Asgarnian Hops
+Travel	Utazás	actions	object	Spirit Tree
+Milk	Fejés	actions	object	Dairy cow
+Steal-cowbell	Kolomp ellopása	actions	object	Dairy cow
+Dismantle	Szétszerelés	actions	object	Young tree
+Set-trap	Csapda felállítása	actions	object	Young tree
+Release	Elengedés	actions	object	Gnome on a rack
+Level	Szint	actions	object	Kelda Stout
+Control	Irányítás	actions	object	Dwarven machinery
+Return	Visszatérés	actions	object	Train cart
+Chip	Hasogatás	actions	object	Dense runestone
+Hack	Vágás	actions	object	Light Jungle
+Quick-Pay(100)	Gyors fizetés (100)	actions	object	Hardwood Grove Doors
+Refuel	Feltankolás	actions	object	Stove
+Retrieve	Visszaszerzés	actions	object	Bars
+Pedal	Pedálozás	actions	object	Pedals
+Put-ore-on	Érc feltétele	actions	object	Conveyor belt
+Fill-bucket	Vödör feltöltése	actions	object	Sink
+Take-seed	Mag felvétele	actions	object	Roses
+Attach	Rögzítés	actions	object	Ornate combat dummy
+Swap	Csere	actions	object	Ornate combat dummy
+Take-Coffin	Koporsó felvétele	actions	object	Grave
+Make	Készítés	actions	object	Bed
+Net	Háló	actions	object	Fishing spot
+Ardougne	Ardougne	actions	object	Lever
+Edgeville	Edgeville	actions	object	Lever
+Swap-options	Lehetőségek cseréje	actions	object	Lever
+Talk to	Megszólítás	actions	object	Tree
+Exchange	Csere	actions	object	Grand Exchange booth
+Lure	Csalivetés	actions	object	Ominous Fishing Spot
+Bait	Csali	actions	object	Ominous Fishing Spot
+Fish-In	Halászat itt	actions	object	Aquarium
+Count	Számlálás	actions	object	Pressure Barrel
+Swim	Úszás	actions	object	River
+Look-up	Felkeresés	actions	object	Trellis
+Spectate	Nézőként részvétel	actions	object	Rat wall
+Deposit-box	Letéti doboz	actions	object	Bank booth
+Grab	Megragadás	actions	object	Bones
+Remove-coal	Szén eltávolítása	actions	object	Coal Truck
+Take-sigil	Pecsét felvétele	actions	object	Pedestal
+Empty-Out	Kiürítés	actions	object	Cannon
+Fire!	Tűz!	actions	object	Cannon
+Loot	Zsákmányolás	actions	object	Crate
+Plunder	Kifosztás	actions	object	Closed chest
+Ransack	Fosztogatás	actions	object	Barrel
+Count-plunder	Zsákmány számlálása	actions	object	Plunder Storage
+Store-plunder	Zsákmány tárolása	actions	object	Plunder Storage
+Take-powder	Por felvétele	actions	object	Powder Barrel
+Waterproof	Vízállóvá tétel	actions	object	Ship hull
+Balance	Egyensúlyozás	actions	object	Narrow wall
+Teeth-grip	Fogással megfogás	actions	object	Zip line
+Drain	Leszívás	actions	object	Barrel
+Churn	Köpülés	actions	object	Dairy churn
+Zanaris	Zanaris	actions	object	Fairy ring
+Configure	Beállítás	actions	object	Fairy ring
+Last-destination (AIP)	Utolsó célállomás (AIP)	actions	object	Fairy ring
+Escape	Menekülés	actions	object	Cave entrance
+Examine	Vizsgálat	actions	object	Healing certificate
+Shape-Canoe	Kenu alakítása	actions	object	Canoe Station
+Float Log	Rönk lebegtetése	actions	object	Canoe Station
+Float Canoe	Kenu lebegtetése	actions	object	Canoe Station
+Paddle Log	Rönk evezése	actions	object	Canoe Station
+Paddle Canoe	Kenu evezése	actions	object	Canoe Station
+Look-inside	Benézés	actions	object	Mole hill
+Buy-food	Étel vásárlása	actions	object	Chest
+Buy-items	Tárgyak vásárlása	actions	object	Chest
+Quick-escape	Gyors menekülés	actions	object	Door
+Pick-Fruit	Gyümölcs szedése	actions	object	Sq'irk tree
+Stand-on	Ráállás	actions	object	Balance beam
+Get-down	Lemenetel	actions	object	Balance beam
+Change-clothes	Ruhacsere	actions	object	Shoe box
+Preen	Tollászkodás	actions	object	Shaving stand
+Haircut	Hajvágás	actions	object	Shaving stand
+Shave	Borotválás	actions	object	Shaving stand
+Pray	Ima	actions	object	Altar
+Re-light	Újrafelgyújtás	actions	object	Incense burner
+Build-in	Beépítés	actions	object	Cage
+Force	Kényszerítés	actions	object	Door
+Activate	Aktiválás	actions	object	Treasure Hunt Fairy House
+Set-up	Beállítás	actions	object	Attack stone
+Hoop	Karika	actions	object	Stick
+Throw-at	Dobás ide	actions	object	Dartboard
+Shoot-at	Lövés ide	actions	object	Archery target
+Karamja	Karamja	actions	object	Amulet of Glory
+Draynor Village	Draynor Village	actions	object	Amulet of Glory
+Al Kharid	Al Kharid	actions	object	Amulet of Glory
+Take-kettle	Vízforraló felvétele	actions	object	Firepit with hook
+Sleep-in	Alvás benne	actions	object	Pet blanket
+Last-destination (AIS)	Utolsó célállomás (AIS)	actions	object	Fairy ring
+Last-destination (AIR)	Utolsó célállomás (AIR)	actions	object	Fairy ring
+Last-destination (AIQ)	Utolsó célállomás (AIQ)	actions	object	Fairy ring
+Direct-portal	Portál irányítása	actions	object	Scrying pool
+Scry	Jóslás	actions	object	Scrying pool
+Challenge-mode	Kihívás mód	actions	object	Lever
+Evade-event	Esemény elkerülése	actions	object	Path
+Continue-trek	Túra folytatása	actions	object	Path
+Swing-from	Lendülés	actions	object	Swamp tree branch
+Cut-vine	Inda vágása	actions	object	Swamp tree
+Escape-event	Eseményből menekülés	actions	object	Boat
+Return-to-Burgh	Visszatérés Burghba	actions	object	Path
+Remove-Pot	Fazék eltávolítása	actions	object	Pot-boiler
+Remove-Bone	Csont eltávolítása	actions	object	Pot-boiler
+Jump-down	Leugrás	actions	object	Rocks
+Use-Driftwood	Sodrófa használata	actions	object	Embers
+Climb-through (normal)	Átmászás (normál)	actions	object	Broken bars
+Climb-through (private)	Átmászás (privát)	actions	object	Broken bars
+Peek (normal)	Kukucskálás (normál)	actions	object	Broken bars
+Eat	Evés	actions	object	Food Pile
+Leap	Szökkenés	actions	object	Gap
+Teleport to Destination	Teleportálás célhoz	actions	object	Obelisk
+Set Destination	Célpont beállítása	actions	object	Obelisk
+Hurdle	Akadályozás	actions	object	Ledge
+Jump-off	Leugrás	actions	object	Edge
+Vault	Trezor	actions	object	Pole-vault
+Jump-in	Beugrás	actions	object	Pile of fish
+Take-pickaxe	Csákány felvétele	actions	object	Rocks
+Use-Lift	Lift használata	actions	object	Platform
+Take-Beam	Gerenda felvétele	actions	object	Crate
+Take-Pulley-Beam	Csigasor gerenda felvétele	actions	object	Crate
+Take-Rope	Kötél felvétele	actions	object	Crate
+Swing Across	Átlendülés	actions	object	Monkeybars
+Home	Főoldal	actions	object	Portal
+Build mode	Építési mód	actions	object	Portal
+Friend's house	Barát háza	actions	object	Portal
+Swing	Hintázás	actions	object	Rope
+Sit-On	Ráülés	actions	object	Piano stool
+Pick Nuts	Dió szedése	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	Banán szedése	actions	object	Strange banana tree
+Throw	Dobás	actions	object	Shot
+Unblock	Tiltás feloldása	actions	object	Tunnel
+Take-Rum	Rum felvétele	actions	object	Conveyor Belt
+Pump	Szivattyúzás	actions	object	Steam Pump
+Vent	Szellőzés	actions	object	Steam Pump
+Take-Log	Rönk felvétele	actions	object	Log Store
+Take-Tool	Eszköz felvétele	actions	object	Workbench
+Cut-Down	Kivágás	actions	object	Jungle tree
+Pay-toll(2-Ecto)	Útdíj fizetése (2 Ecto)	actions	object	Energy Barrier
+Jump-To	Ugrás ide	actions	object	Rock
+Enter-cloud	Felhőbe lépés	actions	object	Cloud bank
+Listen	Hallgatás	actions	object	Crevice
+Manoeuvre-past	Elkerülés	actions	object	Tight-gap
+Climb-under	Alámászás	actions	object	Castle wall
+Climb-into	Bemászás	actions	object	Hole
+Jump-onto	Felugrás	actions	object	Stepping stone
+Press	Megnyomás	actions	object	Zero
+Step-on	Rálépés	actions	object	Platform
+Worship	Imádat	actions	object	Ectofuntus
+Status	Állapot	actions	object	Bone grinder
+Talk-To	Megszólítás	actions	object	Pirate Captain
+Admire	Csodálat	actions	object	Tall mirror
+Roll	Gördülés	actions	object	Dice
+Grapple	Megragadás	actions	object	Rocks
+Take-bowl	Tál felvétele	actions	object	Table
+Sing-crystal	Kristály éneklése	actions	object	Singing bowl
+test	teszt	actions	object	Argento
+Crawl-under	Alábújás	actions	object	Wall
+Fix	Javítás	actions	object	Bellows
+Bend	Hajlítás	actions	object	Cell wall window
+Steal	Lopás	actions	object	Candles
+Deactivate	Deaktiválás	actions	object	Magic box
+Trap	Csapda	actions	object	Pit
+Flush	Átöblítés	actions	object	Rabbit hole
+Shout-over	Átkiabálás	actions	object	Rockslide
+Pull-down	Lehúzás	actions	object	Eagle lever
+Push-up	Feltolás	actions	object	Eagle lever
+Quick-start	Gyors indítás	actions	object	Ladder
+Reset-wave	Hullám visszaállítása	actions	object	Door
+Dunk	Bemerítés	actions	object	Lava crater
+Block	Blokkolás	actions	object	Penance cave
+Demolish	Lebontás	actions	object	Penance cave
+Take-Arrows	Nyilak felvétele	actions	object	Attacker item machine
+Take-Runes	Rúnák felvétele	actions	object	Attacker item machine
+Stock-Up	Feltöltés	actions	object	Defender item machine
+Take-Crackers	Keksz felvétele	actions	object	Defender item machine
+Take-Tofu	Tofu felvétele	actions	object	Defender item machine
+Take-Worms	Férgek felvétele	actions	object	Defender item machine
+Take-Vial	Üvegcse felvétele	actions	object	Healer item machine
+Take-Meat	Hús felvétele	actions	object	Healer item machine
+Call	Hívás	actions	object	Horn of glory
+Get-Spikes	Tüskék szerzése	actions	object	Petrified mushroom
+Load	Betöltés	actions	object	Egg hopper
+Evade	Kitérés	actions	object	Trap
+Disable	Letiltás	actions	object	Trap
+Harpoon	Szigonyozás	actions	object	Fishing spot
+Cage	Ketreccsapda	actions	object	Fishing spot
+Leave Tomb	Sír elhagyása	actions	object	Tomb Door
+Quick-leave	Gyors távozás	actions	object	Tomb Door
+Tread-softly	Halk léptek	actions	object	Icicles
+Convert	Átalakítás	actions	object	Collector Converter
+Check for Snakes	Kígyók keresése	actions	object	Urn
+Charm Snake	Kígyó bűvölése	actions	object	Urn
+Cut-wood	Favágás	actions	object	Woodcutting stump
+Cross-bridge	Hídon átkelés	actions	object	Rope bridge
+Exit-cave	Kilépés a barlangból	actions	object	Exit cavern
+Decapitate	Lefejezés	actions	object	Ice Troll King
+Jump-from	Leugrás	actions	object	Stepping stone
+Peer-through	Átnézés	actions	object	Peephole
+Add-bottom	Alap hozzáadása	actions	object	Crate
+Return-to-Paterdomus	Visszatérés Paterdomusba	actions	object	Path
+Excavate	Ásatás	actions	object	Statue
+Quick Pass	Gyors áthaladás	actions	object	Flames
+Tamper	Babrálás	actions	object	Device
+Untie	Kibontás	actions	object	Zanik
+Walk-along	Haladás	actions	object	Tunnel
+Swing across	Átlendülés	actions	object	Monkeybars
+Animate	Animálás	actions	object	Magical Animator
+Check Kudos	Kudos ellenőrzése	actions	object	Information booth
+Add finds	Leletek hozzáadása	actions	object	Storage crate
+Clean	Tisztítás	actions	object	Specimen table
+Talk-into	Rábeszélés	actions	object	Drain Pipe
+Wind-up	Felhúzás	actions	object	Gramophone
+Turn-Off	Kikapcsolás	actions	object	Gramophone
+Climb up	Felmászás	actions	object	Beard
+Exit-through	Kilépés erre	actions	object	Fire rift
+Push-through	Áttolás	actions	object	Magical wheat
+Dive in	Beugrás	actions	object	Whirlpool
+Construct	Megépítés	actions	object	Pyre site
+Rummage	Turkálás	actions	object	Skeleton
+Burn-down	Leégetés	actions	object	Boil
+Take From	Vétel innen	actions	object	Barrel of flour
+Reach	Elérés	actions	object	Vent
+Free	Felszabadítás	actions	object	King Arthur
+Break	Törés	actions	object	Smashed window
+Distract	Elterelés	actions	object	Eyes
+Drink	Ivás	actions	object	Potion
+Store	Tárolás	actions	object	Super ranging potion
+Equip	Felszerelés	actions	object	Anti-dragon shield
+Teleport	Teleportálás	actions	object	Zamorak altar
+Tie-rope	Kötél megkötése	actions	object	Rock
+Move	Mozgatás	actions	object	Boulder
+Claim-staves	Pálcák átvétele	actions	object	Barrel
+Climb-off	Lemászás	actions	object	Ice bridge
+Crawl	Kúszás	actions	object	Cave
+Join	Csatlakozás	actions	object	Challenge portal
+Hammer	Kalapácsolás	actions	object	Broken strut
+Toggle K/D	K/D váltása	actions	object	Wilderness Statistics
+Make-raft	Tutaj készítése	actions	object	Old log
+Toggle XP	XP váltása	actions	object	Deadman chest
+Take-X	X felvétele	actions	object	Meat table
+Serve	Felszolgálás	actions	object	Buffet table
+Water	Öntözés	actions	object	Golovanova seedling
+Bind	Megkötözés	actions	object	Blood Altar
+Venerate	Tisztelet	actions	object	Dark Altar
+Take-remains	Maradványok felvétele	actions	object	Kruk
+Scale	Mérés	actions	object	Rocks
+Walk on	Átkelés	actions	object	Vine
+Look-in-all	Mindenbe benézés	actions	object	Hole
+Disarm	Lefegyverzés	actions	object	Floor spikes
+Pass through	Áthaladás	actions	object	Sliced web
+Gaze-into	Benézés	actions	object	Burning brazier
+Reset-time	Idő visszaállítása	actions	object	Burning brazier
+Balance-across	Egyensúlyozás átkeléskor	actions	object	Steep roof
+Leave Cavern	Barlang elhagyása	actions	object	Inanimate Altar
+Story	Történet	actions	object	Juna
+Climb over	Átmászás	actions	object	Broken cart
+Claim	Átvétel	actions	object	Reward chest
+Add-House	Ház hozzáadása	actions	object	House Advertisement
+Visit-Last	Utolsó látogatás	actions	object	House Advertisement
+Cross-to	Átkelés ide	actions	object	Rock
+Setup	Beállítás	actions	object	Tip jar
+Jars	Üvegek	actions	object	Boss lair display
+Perks	Bónuszok	actions	object	Mounted Max Cape
+Spellbook	Varázskönyv	actions	object	Mounted Magic Cape
+Clip	Klip	actions	object	Topiary bush
+Feed	Etetés	actions	object	Burning brazier
+Take-hammer	Kalapács felvétele	actions	object	Crate
+Take-knife	Kés felvétele	actions	object	Crate
+Take-tinderbox	Tűzszerszám felvétele	actions	object	Crate
+Take-concoction	Főzet felvétele	actions	object	Crate
+Take-5 concoctions	5 főzet felvétele	actions	object	Crate
+Take-10 concoctions	10 főzet felvétele	actions	object	Crate
+Last-destination (ALP)	Utolsó célállomás (ALP)	actions	object	Fairy ring
+Last-destination (ALS)	Utolsó célállomás (ALS)	actions	object	Fairy ring
+Last-destination (ALR)	Utolsó célállomás (ALR)	actions	object	Fairy ring
+Last-destination (ALQ)	Utolsó célállomás (ALQ)	actions	object	Fairy ring
+Last-destination (AKP)	Utolsó célállomás (AKP)	actions	object	Fairy ring
+Last-destination (AKS)	Utolsó célállomás (AKS)	actions	object	Fairy ring
+Last-destination (AKR)	Utolsó célállomás (AKR)	actions	object	Fairy ring
+Last-destination (AKQ)	Utolsó célállomás (AKQ)	actions	object	Fairy ring
+Last-destination (AJP)	Utolsó célállomás (AJP)	actions	object	Fairy ring
+Last-destination (AJS)	Utolsó célállomás (AJS)	actions	object	Fairy ring
+Last-destination (AJR)	Utolsó célállomás (AJR)	actions	object	Fairy ring
+Last-destination (AJQ)	Utolsó célállomás (AJQ)	actions	object	Fairy ring
+Last-destination (DIP)	Utolsó célállomás (DIP)	actions	object	Fairy ring
+Last-destination (DIS)	Utolsó célállomás (DIS)	actions	object	Fairy ring
+Last-destination (DIR)	Utolsó célállomás (DIR)	actions	object	Fairy ring
+Last-destination (DIQ)	Utolsó célállomás (DIQ)	actions	object	Fairy ring
+Last-destination (DLP)	Utolsó célállomás (DLP)	actions	object	Fairy ring
+Last-destination (DLS)	Utolsó célállomás (DLS)	actions	object	Fairy ring
+Last-destination (DLR)	Utolsó célállomás (DLR)	actions	object	Fairy ring
+Last-destination (DLQ)	Utolsó célállomás (DLQ)	actions	object	Fairy ring
+Last-destination (DKP)	Utolsó célállomás (DKP)	actions	object	Fairy ring
+Last-destination (DKS)	Utolsó célállomás (DKS)	actions	object	Fairy ring
+Last-destination (DKR)	Utolsó célállomás (DKR)	actions	object	Fairy ring
+Last-destination (DKQ)	Utolsó célállomás (DKQ)	actions	object	Fairy ring
+Last-destination (DJP)	Utolsó célállomás (DJP)	actions	object	Fairy ring
+Last-destination (DJS)	Utolsó célállomás (DJS)	actions	object	Fairy ring
+Last-destination (DJR)	Utolsó célállomás (DJR)	actions	object	Fairy ring
+Last-destination (DJQ)	Utolsó célállomás (DJQ)	actions	object	Fairy ring
+Last-destination (CIP)	Utolsó célállomás (CIP)	actions	object	Fairy ring
+Last-destination (CIS)	Utolsó célállomás (CIS)	actions	object	Fairy ring
+Last-destination (CIR)	Utolsó célállomás (CIR)	actions	object	Fairy ring
+Last-destination (CIQ)	Utolsó célállomás (CIQ)	actions	object	Fairy ring
+Last-destination (CLP)	Utolsó célállomás (CLP)	actions	object	Fairy ring
+Last-destination (CLS)	Utolsó célállomás (CLS)	actions	object	Fairy ring
+Last-destination (CLR)	Utolsó célállomás (CLR)	actions	object	Fairy ring
+Last-destination (CLQ)	Utolsó célállomás (CLQ)	actions	object	Fairy ring
+Last-destination (CKP)	Utolsó célállomás (CKP)	actions	object	Fairy ring
+Last-destination (CKS)	Utolsó célállomás (CKS)	actions	object	Fairy ring
+Last-destination (CKR)	Utolsó célállomás (CKR)	actions	object	Fairy ring
+Last-destination (CKQ)	Utolsó célállomás (CKQ)	actions	object	Fairy ring
+Last-destination (CJP)	Utolsó célállomás (CJP)	actions	object	Fairy ring
+Last-destination (CJS)	Utolsó célállomás (CJS)	actions	object	Fairy ring
+Last-destination (CJR)	Utolsó célállomás (CJR)	actions	object	Fairy ring
+Last-destination (CJQ)	Utolsó célállomás (CJQ)	actions	object	Fairy ring
+Last-destination (BIP)	Utolsó célállomás (BIP)	actions	object	Fairy ring
+Last-destination (BIS)	Utolsó célállomás (BIS)	actions	object	Fairy ring
+Last-destination (BIR)	Utolsó célállomás (BIR)	actions	object	Fairy ring
+Last-destination (BIQ)	Utolsó célállomás (BIQ)	actions	object	Fairy ring
+Last-destination (BLP)	Utolsó célállomás (BLP)	actions	object	Fairy ring
+Last-destination (BLS)	Utolsó célállomás (BLS)	actions	object	Fairy ring
+Last-destination (BLR)	Utolsó célállomás (BLR)	actions	object	Fairy ring
+Last-destination (BLQ)	Utolsó célállomás (BLQ)	actions	object	Fairy ring
+Last-destination (BKP)	Utolsó célállomás (BKP)	actions	object	Fairy ring
+Last-destination (BKS)	Utolsó célállomás (BKS)	actions	object	Fairy ring
+Last-destination (BKR)	Utolsó célállomás (BKR)	actions	object	Fairy ring
+Last-destination (BKQ)	Utolsó célállomás (BKQ)	actions	object	Fairy ring
+Last-destination (BJP)	Utolsó célállomás (BJP)	actions	object	Fairy ring
+Last-destination (BJS)	Utolsó célállomás (BJS)	actions	object	Fairy ring
+Last-destination (BJR)	Utolsó célállomás (BJR)	actions	object	Fairy ring
+Last-destination (BJQ)	Utolsó célállomás (BJQ)	actions	object	Fairy ring
+Tree	Fa	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	Zanaris csörgése	actions	object	Spiritual Fairy Tree
+Ring-configure	Gyűrű beállítása	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	Gyűrű – utolsó célállomás (AIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	Gyűrű – utolsó célállomás (AIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	Gyűrű – utolsó célállomás (AIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	Gyűrű – utolsó célállomás (AIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	Gyűrű – utolsó célállomás (ALP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	Gyűrű – utolsó célállomás (ALS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	Gyűrű – utolsó célállomás (ALR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	Gyűrű – utolsó célállomás (ALQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	Gyűrű – utolsó célállomás (AKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	Gyűrű – utolsó célállomás (AKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	Gyűrű – utolsó célállomás (AKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	Gyűrű – utolsó célállomás (AKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	Gyűrű – utolsó célállomás (AJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	Gyűrű – utolsó célállomás (AJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	Gyűrű – utolsó célállomás (AJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	Gyűrű – utolsó célállomás (AJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	Gyűrű – utolsó célállomás (DIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	Gyűrű – utolsó célállomás (DIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	Gyűrű – utolsó célállomás (DIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	Gyűrű – utolsó célállomás (DIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	Gyűrű – utolsó célállomás (DLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	Gyűrű – utolsó célállomás (DLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	Gyűrű – utolsó célállomás (DLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	Gyűrű – utolsó célállomás (DLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	Gyűrű – utolsó célállomás (DKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	Gyűrű – utolsó célállomás (DKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	Gyűrű – utolsó célállomás (DKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	Gyűrű – utolsó célállomás (DKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	Gyűrű – utolsó célállomás (DJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	Gyűrű – utolsó célállomás (DJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	Gyűrű – utolsó célállomás (DJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	Gyűrű – utolsó célállomás (DJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	Gyűrű – utolsó célállomás (CIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	Gyűrű – utolsó célállomás (CIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	Gyűrű – utolsó célállomás (CIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	Gyűrű – utolsó célállomás (CIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	Gyűrű – utolsó célállomás (CLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	Gyűrű – utolsó célállomás (CLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	Gyűrű – utolsó célállomás (CLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	Gyűrű – utolsó célállomás (CLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	Gyűrű – utolsó célállomás (CKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	Gyűrű – utolsó célállomás (CKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	Gyűrű – utolsó célállomás (CKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	Gyűrű – utolsó célállomás (CKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	Gyűrű – utolsó célállomás (CJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	Gyűrű – utolsó célállomás (CJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	Gyűrű – utolsó célállomás (CJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	Gyűrű – utolsó célállomás (CJQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	Gyűrű – utolsó célállomás (BIP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	Gyűrű – utolsó célállomás (BIS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	Gyűrű – utolsó célállomás (BIR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	Gyűrű – utolsó célállomás (BIQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	Gyűrű – utolsó célállomás (BLP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	Gyűrű – utolsó célállomás (BLS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	Gyűrű – utolsó célállomás (BLR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	Gyűrű – utolsó célállomás (BLQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	Gyűrű – utolsó célállomás (BKP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	Gyűrű – utolsó célállomás (BKS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	Gyűrű – utolsó célállomás (BKR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	Gyűrű – utolsó célállomás (BKQ)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	Gyűrű – utolsó célállomás (BJP)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	Gyűrű – utolsó célállomás (BJS)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	Gyűrű – utolsó célállomás (BJR)	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	Gyűrű – utolsó célállomás (BJQ)	actions	object	Spiritual Fairy Tree
+Craft-rune	Rúna készítése	actions	object	Altar
+Fuel	Üzemanyagozás	actions	object	Brazier
+Dispel	Feloszlatás	actions	object	Shimmering barrier
+Shared	Megosztott	actions	object	Small storage unit
+Take Rake	Gereblye felvétele	actions	object	Old tools
+Take Spade	Ásó felvétele	actions	object	Old tools
+Take Seed Dibber	Magvető felvétele	actions	object	Old tools
+Pick-lots	Sok szedése	actions	object	Gourd tree
+Quick-pass	Gyors áthaladás	actions	object	Mystical barrier
+Coffer	Széf	actions	object	Furnace
+Quick-exit	Gyors kilépés	actions	object	Cave exit
+Travel to platform	Utazás a platformhoz	actions	object	Row boat
+Leave platform	Platform elhagyása	actions	object	Row boat
+Check count	Szám ellenőrzése	actions	object	Rock
+Toggle warning	Figyelmeztetés váltása	actions	object	Rock
+Seeds	Magvak	actions	object	Birdhouse (empty)
+Interact	Interakció	actions	object	Birdhouse
+Inject	Befecskendezés	actions	object	Sulliuscep
+Jump on	Felugrás	actions	object	Rubber cap mushroom
+Navigate	Navigálás	actions	object	Obstacle
+Climb Down	Lemászás	actions	object	Trap Door
+Climb Up	Felmászás	actions	object	Rope anchor
+Dive	Merülés	actions	object	Rowboat
+Build on	Építés ide	actions	object	Ring of Stones
+Take tools	Eszközök felvétele	actions	object	Crate
+Set up	Beállítás	actions	object	Drift net anchors
+Take down	Lebontás	actions	object	Drift net anchors
+Pick up	Felvétel	actions	object	Pile of Fishbowls
+Pay	Fizetés	actions	object	Volcano Entrance
+Feel	Érintés	actions	object	Gas hole
+Add to	Hozzáadás	actions	object	Large Fossil Support
+Climb through	Átbújás	actions	object	Hole
+Teleport to destination	Teleportálás célhoz	actions	object	Obelisk
+Set destination	Célpont beállítása	actions	object	Obelisk
+Jump to	Ugrás ide	actions	object	Pillar
+Preferences	Beállítások	actions	object	Log storage
+Absorb	Felszívás	actions	object	Energy Sphere
+Reminisce	Visszaemlékezés	actions	object	Pool of Dreams
+Nets	Hálók	actions	object	Annette
+Ancient	Ancient	actions	object	Altar of the Occult
+Lunar	Lunar	actions	object	Altar of the Occult
+Arceuus	Arceuus	actions	object	Altar of the Occult
+Standard	Normál	actions	object	Altar of the Occult
+Recharge-jewellery	Ékszer feltöltése	actions	object	Totem Pole
+Douse	Eloltás	actions	object	Fire
+Heal	Gyógyítás	actions	object	Fremennik warrior
+Complete	Befejezés	actions	object	Incomplete map
+Check-Count	Szám ellenőrzése	actions	object	Gate
+Clamber	Kúszás	actions	object	Rock Pile
+Look-through	Átnézés	actions	object	Window
+Charge-at	Roham	actions	object	Vyre well
+Quick-enter	Gyors belépés	actions	object	Door
+Resign	Lemondás	actions	object	Vyre Orator
+Varrock	Varrock	actions	object	Varrock Portal
+Grand Exchange	Grand Exchange	actions	object	Varrock Portal
+Toggle	Váltás	actions	object	Varrock Portal
+Camelot	Camelot	actions	object	Camelot Portal
+Seers' Village	Seers' Village	actions	object	Camelot Portal
+Watchtower	Watchtower	actions	object	Yanille Watchtower Portal
+Yanille	Yanille	actions	object	Yanille Watchtower Portal
+Quick-Enter	Gyors belépés	actions	object	Formidable passage
+Iceberg	Iceberg	actions	object	Boat
+Weiss	Weiss	actions	object	Boat
+Teleport Menu	Teleport menü	actions	object	Portal Nexus
+Configuration	Konfiguráció	actions	object	Portal Nexus
+Look out	Kitekintés	actions	object	Xeric's Talisman
+Teleport menu	Teleport menü	actions	object	Xeric's Talisman
+Glade	Tisztás	actions	object	Xeric's Talisman
+Inferno	Inferno	actions	object	Xeric's Talisman
+Heart	Szív	actions	object	Xeric's Talisman
+Honour	Tisztelet	actions	object	Xeric's Talisman
+Digsite	Digsite	actions	object	Digsite Pendant
+Fossil Island	Fossil Island	actions	object	Digsite Pendant
+Lithkren	Lithkren	actions	object	Digsite Pendant
+Ancients	Ancients	actions	object	Supplies
+Start	Indítás	actions	object	Steam Generator
+Align	Igazítás	actions	object	Power Grid
+Fill-jug	Korsó feltöltése	actions	object	Coolant Dispenser
+Cleanse	Megtisztítás	actions	object	Refinery
+Rebalance	Újraelosztás	actions	object	Energy Pylon
+Pick-dragonfruit	Sárkánygyümölcs szedése	actions	object	Dragonfruit tree
+Crawl through	Átbújás	actions	object	Tunnel
+Quick-open	Gyors megnyitás	actions	object	Alchemical door
+Take-rock	Kő felvétele	actions	object	Rubble
+Quick-Exit	Gyors kilépés	actions	object	Ancient Fire
+Check-Faith	Hit ellenőrzése	actions	object	Sacred Bone Burner
+Enter-crypt	Belépés a kriptába	actions	object	Thick Web
+Follow	Követés	actions	object	Tracks
+Fill-from	Feltöltés innen	actions	object	Water Pump
+Channel	Csatorna	actions	object	Teleport Platform
+Enter-corrupted	Belépés (fertőzött)	actions	object	The Gauntlet
+Refine	Finomítás	actions	object	Furnace
+Imbue	Feltöltés	actions	object	Altar
+Emir's Arena	Emir's Arena	actions	object	Basic Jewellery Box
+Castle Wars	Castle Wars	actions	object	Basic Jewellery Box
+Ferox Enclave	Ferox Enclave	actions	object	Basic Jewellery Box
+Burthorpe	Burthorpe	actions	object	Basic Jewellery Box
+Barbarian Outpost	Barbarian Outpost	actions	object	Basic Jewellery Box
+Corporeal Beast	Corporeal Beast	actions	object	Basic Jewellery Box
+Tears of Guthix	Tears of Guthix	actions	object	Basic Jewellery Box
+Wintertodt Camp	Wintertodt Camp	actions	object	Basic Jewellery Box
+Warriors' Guild	Warriors' Guild	actions	object	Fancy Jewellery Box
+Champions' Guild	Champions' Guild	actions	object	Fancy Jewellery Box
+Monastery	Monastery	actions	object	Fancy Jewellery Box
+Ranging Guild	Ranging Guild	actions	object	Fancy Jewellery Box
+Fishing Guild	Fishing Guild	actions	object	Fancy Jewellery Box
+Mining Guild	Mining Guild	actions	object	Fancy Jewellery Box
+Crafting Guild	Crafting Guild	actions	object	Fancy Jewellery Box
+Cooking Guild	Cooking Guild	actions	object	Fancy Jewellery Box
+Woodcutting Guild	Woodcutting Guild	actions	object	Fancy Jewellery Box
+Farming Guild	Farming Guild	actions	object	Fancy Jewellery Box
+Miscellania	Miscellania	actions	object	Ornate Jewellery Box
+Falador Park	Falador Park	actions	object	Ornate Jewellery Box
+Dondakan's Rock	Dondakan's Rock	actions	object	Ornate Jewellery Box
+Take manta ray	Manta rája felvétele	actions	object	Bounty supply crate
+Take anglerfish	Szögcsukahorgász hal felvétele	actions	object	Bounty supply crate
+Destroy	Megsemmisítés	actions	object	Lab table
+Stamp-out	Kinyomás	actions	object	Magical Fire
+Continue	Folytatás	actions	object	Path
+Climp-up	Felmászás	actions	object	Stairs
+Check-statistics (Personal)	Statisztikák (Személyes)	actions	object	Noticeboard
+Check-statistics (Global)	Statisztikák (Globális)	actions	object	Noticeboard
+Sacrifice	Feláldozás	actions	object	Saradomin Brazier
+Walk-over	Átkelés	actions	object	Bridge
+Conjure	Megidézés	actions	object	Portal frame
+Search-for-traps	Csapdák keresése	actions	object	Coffin
+Pass-Through	Áthaladás	actions	object	Casual
+Cut-foot	Tő vágása	actions	object	Dead sourhog
+Take-candy	Cukorka felvétele	actions	object	Magical pumpkin
+Jump-Down	Leugrás	actions	object	Crevice
+Channel (Asgarnia)	Csatorna (Asgarnia)	actions	object	Waystone
+Channel (Misthalin)	Csatorna (Misthalin)	actions	object	Waystone
+Channel (Kandarin)	Csatorna (Kandarin)	actions	object	Waystone
+Channel (Fremennik)	Csatorna (Fremennik)	actions	object	Waystone
+Channel (Kharidian Desert)	Csatorna (Kharid sivatag)	actions	object	Waystone
+Channel (Morytania)	Csatorna (Morytania)	actions	object	Waystone
+Channel (Tirannwn)	Csatorna (Tirannwn)	actions	object	Waystone
+Channel (Karamja)	Csatorna (Karamja)	actions	object	Waystone
+Channel (Wilderness)	Csatorna (Vadon)	actions	object	Waystone
+Slayer	Slayer	actions	object	Kings' ladder
+Open (normal)	Megnyitás (normál)	actions	object	Big door
+Open (private)	Megnyitás (privát)	actions	object	Big door
+Climb-down (normal)	Lemászás (normál)	actions	object	Tunnel entrance
+Climb-down (private)	Lemászás (privát)	actions	object	Tunnel entrance
+Sacrifice-fragments	Töredékek feláldozása	actions	object	Soul Obelisk
+Remove-decorations	Díszítések eltávolítása	actions	object	Christmas curtains
+Untether	Kikötés megszüntetése	actions	object	Mast
+Tether	Kikötés	actions	object	Mast
+Remove-trophy	Trófea eltávolítása	actions	object	Trophy pedestal
+View-trophies	Trófeák megtekintése	actions	object	Oak trophy case
+Remove-banner	Zászló eltávolítása	actions	object	Banner stand
+Remove-outfit	Öltözet eltávolítása	actions	object	Oak outfit stand
+Spin-globe	Glóbusz forgatása	actions	object	Trailblazer globe
+League-statistics	Liga statisztikák	actions	object	League Accomplishment Scroll
+League-rankings	Liga rangsor	actions	object	League Accomplishment Scroll
+League-firsts	Liga elsők	actions	object	League Accomplishment Scroll
+Cook-at	Főzés itt	actions	object	Shrine
+Big-search	Nagy keresés	actions	object	Reward pool
+Quick-climb	Gyors mászás	actions	object	Rope ladder
+Solo-start	Egyedüli indítás	actions	object	Rope ladder
+Prepare-fish	Hal előkészítése	actions	object	Preparation Table
+Offer-fish	Hal felajánlása	actions	object	Altar
+Entertain	Szórakoztatás	actions	object	Piano
+Play-quietly	Halk játék	actions	object	Piano
+Background-music	Háttérzene	actions	object	Piano
+Enter-member	Belépés tagként	actions	object	Clan hall portal
+Enter-guest	Belépés vendégként	actions	object	Clan hall portal
+Pet	Simogatás	actions	object	Cat
+Pass (normal)	Áthaladás (normál)	actions	object	Ancient Barrier
+Pass (private)	Áthaladás (privát)	actions	object	Ancient Barrier
+Adjust	Beállítás	actions	object	Machine
+Say-name	Név kimondása	actions	object	Grave
+Deposit-runes	Rúnák letétele	actions	object	Deposit Pool
+Deposit-items	Tárgyak letétele	actions	object	Deposit Pool
+Visual-effects	Vizuális effektek	actions	object	Barrier
+Toggle-talisman	Talizmán váltása	actions	object	Guardian of Air
+Assemble	Összeszerkesztés	actions	object	Essence pile (elemental)
+Take-chisel	Véső felvétele	actions	object	Weak cells
+Place-cell	Cella elhelyezése	actions	object	Inactive cell tile
+Exit-through (Kourend)	Kilépés erre (Kourend)	actions	object	Blood rift
+Pay-toll(10gp)	Útdíj fizetése (10gp)	actions	object	Gate
+Pour	Öntés	actions	object	Crucible (full)
+Heat-preform	Előgyártmány melegítése	actions	object	Lava pool
+Dunk-preform	Előgyártmány bemerítése	actions	object	Lava pool
+Cool-preform	Lehűtés	actions	object	Waterfall
+Quench-preform	Előgyártmány hűtése	actions	object	Waterfall
+Store-preform	Előgyártmány tárolása	actions	object	Preform storage
+Take-preform	Előgyártmány felvétele	actions	object	Preform storage
+Rank	Rang	actions	object	Arena recruitment board
+Quick-use	Gyors használat	actions	object	Staging area steps
+Quick-Pass	Gyors áthaladás	actions	object	Barrier
+Flip	Megfordítás	actions	object	Pressure plate
+Rotate-clockwise	Forgás az óramutató járásával	actions	object	Mirror
+Rotate-anticlockwise	Forgás az óramutató járásával ellentétesen	actions	object	Mirror
+Deposit-pickaxe	Csákány letétele	actions	object	Statue
+Quick-Use	Gyors használat	actions	object	Teleport crystal
+Quick-Board	Gyors felszállás	actions	object	Sacrificial boat
+Check-permissions	Engedélyek ellenőrzése	actions	object	Chest
+Pickup	Felvétel	actions	object	Gingerbread
+Check-times	Idők ellenőrzése	actions	object	Santa's log
+Push-against	Nekitolás	actions	object	Wall
+Check-Fee	Díj ellenőrzése	actions	object	Crevice
+Peer-into	Benézés	actions	object	Prifddinas Display
+Release-bees	Méhek engedése	actions	object	Beehive
+Add-mulch	Mulcs hozzáadása	actions	object	Struggling sapling
+Read (Awakened)	Olvasás (Felébredt)	actions	object	Scoreboard
+Attach-rope	Kötél rögzítése	actions	object	Rock
+Climb-rope	Kötélmászás	actions	object	Rock
+Build-barricade	Torlasz építése	actions	object	Surface
+Take-supplies	Készletek felvétele	actions	object	Stone chest
+Lockpick	Zárfeltörés	actions	object	Stone chest (locked)
+Burn	Égetés	actions	object	Shipwreck
+Burn`	Égetés	actions	object	Gunpowder
+Withdraw	Kivétel	actions	object	Extract orifice
+Tend-to	Gondozás	actions	object	Forester's Campfire
+Rest	Pihenés	actions	object	Forester's Campfire
+Retrieve-egg	Tojás visszaszerzése	actions	object	Pheasant Nest
+Revert	Visszaállítás	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	Csatorna (Nagy Kourend)	actions	object	Waystone
+Travel-End	Utazás vége	actions	object	Portal
+Travel-Start	Utazás kezdete	actions	object	Portal
+Reload	Újratöltés	actions	object	Steps
+Collect-reward	Jutalom gyűjtése	actions	object	Table
+Look-over	Átnézés	actions	object	Balcony
+Fortis Colosseum	Fortis Colosseum	actions	object	Basic Jewellery Box
+View-stats	Statisztikák megtekintése	actions	object	Colosseum scoreboard
+View-glory	Dicsőség megtekintése	actions	object	Colosseum scoreboard
+Sabotage	Szabotázs	actions	object	Lily pad
+Plant-evidence	Bizonyíték elhelyezése	actions	object	Capybara Dung
+Rustle	Zizegtetés	actions	object	Bush
+Make-cuppa	Teafőzés	actions	object	Cooking stove
+Align-net	Háló igazítása	actions	object	Stream
+Take-from Fishing	Felvétel (Halászat)	actions	object	Supply crates
+Take-from Hunting	Felvétel (Vadászat)	actions	object	Supply crates
+Take-from Herblore	Felvétel (Gyógynövény)	actions	object	Supply crates
+Take-log	Rönk felvétele	actions	object	Roots
+Bask	Sütkérezés	actions	object	Shrine of Ralos
+Cimb-down	Lemászás	actions	object	Open trapdoor
+Bless	Megáldás	actions	object	Exposed altar
+Deposit-eggs	Tojások letétele	actions	object	Easter mine cart
+Redeem	Beváltás	actions	object	Agility dispenser
+Squeeze-Through	Átpréselés	actions	object	Crevice
+Jump-Across	Átugrás	actions	object	Dry stone wall
+Cross-over	Átkelés	actions	object	Broken wall
+Take-many	Sok felvétele	actions	object	Medical box
+Slide-along	Végigcsúszás	actions	object	Icy ledge
+Take-uniform	Egyenruha felvétele	actions	object	Wardrobe
+Concentrate-potion	Főzet sűrítése	actions	object	Retort
+Homogenise-potion	Főzet homogenizálása	actions	object	Agitator
+Crystalise-potion	Főzet kristályosítása	actions	object	Alembic
+Fulfil-order	Megrendelés teljesítése	actions	object	Conveyor belt
+Fight-privately	Privát harc	actions	object	Meeting flag
+Leave-group	Csoport elhagyása	actions	object	Meeting flag (private)
+Quick-slide	Gyors csúszás	actions	object	Slope
+Change	Csere	actions	object	Scarecrow
+Plant	Ültetés	actions	object	Pumpkin patch
+Carve-pumpkin	Tök faragása	actions	object	Pumpkin carving table
+Walk-to	Odamenetel	actions	object	Blue tile
+Channel (Varlamore)	Csatorna (Varlamore)	actions	object	Waystone
+Reinvigorate	Megelevenítés	actions	object	Book of Eternal Flame
+Trophies	Trófeák	actions	object	Teak display
+Bottom-Floor	Alsó szint	actions	object	Ladder
+Quench	Csillapítás	actions	object	Pool of ichor
+Hang-over	Átlógatás	actions	object	Platform edge
+Accurate	Pontos	actions	menu	combatOptionsTab
+Aggressive	Agresszív	actions	menu	combatOptionsTab
+Defensive	Védekező	actions	menu	combatOptionsTab
+Controlled	Irányított	actions	menu	combatOptionsTab
+Chop	Vágás	actions	menu	combatOptionsTab
+Slash	Csapás	actions	menu	combatOptionsTab
+Stab	Szúrás	actions	menu	combatOptionsTab
+Block	Blokkolás	actions	menu	combatOptionsTab
+Pound	Zúzás	actions	menu	combatOptionsTab
+Pummel	Püfölés	actions	menu	combatOptionsTab
+Spike	Tüskézés	actions	menu	combatOptionsTab
+Impale	Felnyársal	actions	menu	combatOptionsTab
+Smash	Szétzúzás	actions	menu	combatOptionsTab
+Lunge	Szúrás	actions	menu	combatOptionsTab
+Swipe	Húzás	actions	menu	combatOptionsTab
+Hack	Vágás	actions	menu	combatOptionsTab
+Reap	Aratás	actions	menu	combatOptionsTab
+Rapid	Gyors	actions	menu	combatOptionsTab
+Longrange	Hosszú hatótáv	actions	menu	combatOptionsTab
+Flick	Billegtetés	actions	menu	combatOptionsTab
+Lash	Ostorcsapás	actions	menu	combatOptionsTab
+Deflect	Kitérés	actions	menu	combatOptionsTab
+Fend	Védekezés	actions	menu	combatOptionsTab
+Bash	Csapás	actions	menu	combatOptionsTab
+Blaze	Lángolás	actions	menu	combatOptionsTab
+Scorch	Megperzselés	actions	menu	combatOptionsTab
+Flare	Jelzőfáklya	actions	menu	combatOptionsTab
+Punch	Ökölcsapás	actions	menu	combatOptionsTab
+Kick	Rúgás	actions	menu	combatOptionsTab
+Hide	Elrejtés	actions	menu	prayerTab
+Activate	Aktiválás	actions	menu	prayerTab
+Unhide	Megjelenítés	actions	menu	prayerTab
+Deactivate	Deaktiválás	actions	menu	prayerTab
+Animation	Animáció	actions	menu	spellBookTab
+Hide	Elrejtés	actions	menu	spellBookTab
+Cast	Varázslat	actions	menu	spellBookTab
+Unhide	Megjelenítés	actions	menu	spellBookTab
+View	Megtekintés	actions	menu	spellBookTab
+Warnings	Figyelmeztetések	actions	menu	spellBookTab
+Configure	Beállítás	actions	menu	spellBookTab
+Grand Exchange	Grand Exchange	actions	menu	spellBookTab
+Seers'	Seers'	actions	menu	spellBookTab
+Group: Previous	Csoport: Előző	actions	menu	spellBookTab
+Group: Choose	Csoport: Választás	actions	menu	spellBookTab
+Outside	Kint	actions	menu	spellBookTab
+Yanille	Yanille	actions	menu	spellBookTab
+Enable warning	Figyelmeztetés engedélyezése	actions	menu	spellBookTab
+Disable warning	Figyelmeztetés letiltása	actions	menu	spellBookTab
+Turael	Turael	actions	menu	spellBookTab
+Target	Célzás	actions	menu	spellBookTab
+Setup	Beállítás	actions	menu	spellBookTab
+Arceuus	Arceuus	actions	menu	spellBookTab
+Ancient	Ancient	actions	menu	spellBookTab
+Standard	Normál	actions	menu	spellBookTab
+Reanimate	Újraélesztés	actions	menu	spellBookTab
+Resurrect	Feltámasztás	actions	menu	spellBookTab
+Walk here	Séta ide	actions	manual	
+Examine	Vizsgálat	actions	npc	
+Examine	Vizsgálat	actions	item	
+Take	Felvétel	actions	item	
+Light	Meggyújtás	actions	item	
+(Members)	(Members)	actions	item	
+Cancel	Mégsem	actions	manual	
+Follow	Követés	actions	player	
+Trade with	Kereskedés	actions	player	
+Lookup	Keresés	actions	player	
+Equipment	Felszerelés	actions	player	
+Report	Jelentés	actions	player	
+Adjust Music Volume	Zenei hangerő beállítása	actions	menu	settingsTab
+Adjust Area Sound Volume	Területi hangerő beállítása	actions	menu	settingsTab
+Adjust Sound Effect Volume	Hangeffekt hangerő beállítása	actions	menu	settingsTab
+Toggle unlock message	Feloldás üzenet váltása	actions	menu	settingsTab
+Play	Játék	actions	menu	
+Open Activity Adviser	Tevékenység-tanácsadó megnyitása	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)	<colNum0>Chat mód:</col> Csoport (/@g)	actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)	<colNum0>Chat mód:</col> Vendég klán (/@gc)	actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)	<colNum0>Chat mód:</col> Klán (/@c)	actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)	<colNum0>Chat mód:</col> Csatorna (/@f)	actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)	<colNum0>Chat mód:</col> Nyilvános (/@p)	actions	menu	
+Clear history	Előzmények törlése	actions	menu	
+Switch tab	Fül váltása	actions	menu	
+Configure filter	Szűrő beállítása	actions	menu	
+<colNum0>Game:</col> Clear history	<colNum0>Játék:</col> Előzmények törlése	actions	menu	
+<colNum0>Game:</col> Filter	<colNum0>Játék:</col> Szűrő	actions	menu	
+Setup your autochat	Automatikus chat beállítása	actions	menu	
+Filter public chat	Nyilvános chat szűrése	actions	menu	
+<colNum0>Public:</col> Clear history	<colNum0>Nyilvános:</col> Előzmények törlése	actions	menu	
+<colNum0>Public:</col> Hide	<colNum0>Nyilvános:</col> Elrejtés	actions	menu	
+<colNum0>Public:</col> Show none	<colNum0>Nyilvános:</col> Semmi sem látható	actions	menu	
+<colNum0>Public:</col> Show friends	<colNum0>Nyilvános:</col> Barátok megjelenítése	actions	menu	
+<colNum0>Public:</col> Show standard	<colNum0>Nyilvános:</col> Alapértelmezett megjelenítése	actions	menu	
+<colNum0>Public:</col> Show autochat	<colNum0>Nyilvános:</col> Autochat megjelenítése	actions	menu	
+<colNum0>Private:</col> Clear history	<colNum0>Privát:</col> Előzmények törlése	actions	menu	
+<colNum0>Private:</col> Show none	<colNum0>Privát:</col> Semmi sem látható	actions	menu	
+<colNum0>Private:</col> Show friends	<colNum0>Privát:</col> Barátok megjelenítése	actions	menu	
+<colNum0>Private:</col> Show all	<colNum0>Privát:</col> Összes megjelenítése	actions	menu	
+<colNum0>Channel:</col> Clear history	<colNum0>Csatorna:</col> Előzmények törlése	actions	menu	
+<colNum0>Channel:</col> Show none	<colNum0>Csatorna:</col> Semmi sem látható	actions	menu	
+<colNum0>Channel:</col> Show friends	<colNum0>Csatorna:</col> Barátok megjelenítése	actions	menu	
+<colNum0>Channel:</col> Show all	<colNum0>Csatorna:</col> Összes megjelenítése	actions	menu	
+<colNum0>Clan:</col> Clear history	<colNum0>Klán:</col> Előzmények törlése	actions	menu	
+<colNum0>Clan:</col> Show none	<colNum0>Klán:</col> Semmi sem látható	actions	menu	
+<colNum0>Clan:</col> Show friends	<colNum0>Klán:</col> Barátok megjelenítése	actions	menu	
+<colNum0>Clan:</col> Show all	<colNum0>Klán:</col> Összes megjelenítése	actions	menu	
+<colNum0>Group:</col> Clear history	<colNum0>Csoport:</col> Előzmények törlése	actions	menu	
+<colNum0>Group:</col> Show none	<colNum0>Csoport:</col> Semmi sem látható	actions	menu	
+<colNum0>Group:</col> Show friends	<colNum0>Csoport:</col> Barátok megjelenítése	actions	menu	
+<colNum0>Group:</col> Show all	<colNum0>Csoport:</col> Összes megjelenítése	actions	menu	
+<colNum0>Trade:</col> Clear history	<colNum0>Kereskedés:</col> Előzmények törlése	actions	menu	
+<colNum0>Trade:</col> Show none	<colNum0>Kereskedés:</col> Semmi sem látható	actions	menu	
+<colNum0>Trade:</col> Show friends	<colNum0>Kereskedés:</col> Barátok megjelenítése	actions	menu	
+<colNum0>Trade:</col> Show all	<colNum0>Kereskedés:</col> Összes megjelenítése	actions	menu	
+Report game bug	Játékbug jelentése	actions	menu	
+Report abuse	Visszaélés jelentése	actions	menu	
+Combat Options	Harci lehetőségek	actions	menu	
+Skills	Készségek	actions	menu	
+Achievement Diaries	Teljesítmény naplók	actions	menu	
+Inventory	Leltár	actions	menu	
+Worn Equipment	Viselt felszerelés	actions	menu	
+Enable prayer reordering	Ima átrendezés engedélyezése	actions	menu	
+Disable prayer filtering	Ima szűrés letiltása	actions	menu	
+Prayer	Ima	actions	menu	
+Enable spell reordering	Varázslat átrendezés engedélyezése	actions	menu	
+Disable spell filtering	Varázslat szűrés letiltása	actions	menu	
+Magic	Mágia	actions	menu	
+Friends List	Baráti lista	actions	menu	
+Account Management	Fiókkezelés	actions	menu	
+Ironman Group	Ironman Group	actions	menu	
+Settings	Beállítások	actions	menu	
+Emotes	Emóciók	actions	menu	
+Music Player	Zenei lejátszó	actions	menu	
+Logout	Kijelentkezés	actions	menu	
+Look West	Nyugatra nézés	actions	menu	
+Look South	Délre nézés	actions	menu	
+Look East	Keletre nézés	actions	menu	
+Look North	Északra nézés	actions	menu	
+Setup	Beállítás	actions	menu	
+Hide	Elrejtés	actions	menu	
+Show	Megjelenítés	actions	menu	
+Activate	Aktiválás	actions	menu	
+Toggle Run	Futás váltása	actions	menu	
+Use	Használat	actions	menu	
+Bond Pouch	Bond Pouch	actions	menu	
+Open Store	Bolt megnyitása	actions	menu	
+Clear	Törlés	actions	menu	
+Import	Importálás	actions	menu	
+Export	Exportálás	actions	menu	
+Fullscreen <colNum0>World Map</col>	Teljes képernyő <colNum0>Világtérkép</col>	actions	menu	
+Floating <colNum0>World Map</col>	Lebegő <colNum0>Világtérkép</col>	actions	menu	
+DPS	DPS	actions	menu	
+Search	Keresés	actions	menu	
+Lookup	Keresés	actions	menu	
+Auto retaliate	Automatikus visszaütés	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>	Használat: <colNum0>Speciális támadás</col>	actions	menu	combatOptionsTab
+Choose spell	Varázslat választása	actions	menu	combatOptionsTab
+Focus	Fókuszálás	actions	menu	combatOptionsTab
+Wiki	Wiki	actions	menu	
+Add to canvas	Vászonra adás	actions	menu	
+View <colNum0>Attack</col> guide	Útmutató: <colNum0>Attack</col>	actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide	Útmutató: <colNum0>Hitpoints</col>	actions	menu	skillsTab
+View <colNum0>Mining</col> guide	Útmutató: <colNum0>Mining</col>	actions	menu	skillsTab
+View <colNum0>Strength</col> guide	Útmutató: <colNum0>Strength</col>	actions	menu	skillsTab
+View <colNum0>Agility</col> guide	Útmutató: <colNum0>Agility</col>	actions	menu	skillsTab
+View <colNum0>Smithing</col> guide	Útmutató: <colNum0>Smithing</col>	actions	menu	skillsTab
+View <colNum0>Defence</col> guide	Útmutató: <colNum0>Defence</col>	actions	menu	skillsTab
+View <colNum0>Herblore</col> guide	Útmutató: <colNum0>Herblore</col>	actions	menu	skillsTab
+View <colNum0>Fishing</col> guide	Útmutató: <colNum0>Fishing</col>	actions	menu	skillsTab
+View <colNum0>Ranged</col> guide	Útmutató: <colNum0>Ranged</col>	actions	menu	skillsTab
+View <colNum0>Thieving</col> guide	Útmutató: <colNum0>Thieving</col>	actions	menu	skillsTab
+View <colNum0>Cooking</col> guide	Útmutató: <colNum0>Cooking</col>	actions	menu	skillsTab
+View <colNum0>Prayer</col> guide	Útmutató: <colNum0>Prayer</col>	actions	menu	skillsTab
+View <colNum0>Crafting</col> guide	Útmutató: <colNum0>Crafting</col>	actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide	Útmutató: <colNum0>Firemaking</col>	actions	menu	skillsTab
+View <colNum0>Magic</col> guide	Útmutató: <colNum0>Magic</col>	actions	menu	skillsTab
+View <colNum0>Fletching</col> guide	Útmutató: <colNum0>Fletching</col>	actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide	Útmutató: <colNum0>Woodcutting</col>	actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide	Útmutató: <colNum0>Runecraft</col>	actions	menu	skillsTab
+View <colNum0>Slayer</col> guide	Útmutató: <colNum0>Slayer</col>	actions	menu	skillsTab
+View <colNum0>Farming</col> guide	Útmutató: <colNum0>Farming</col>	actions	menu	skillsTab
+View <colNum0>Construction</col> guide	Útmutató: <colNum0>Construction</col>	actions	menu	skillsTab
+View <colNum0>Hunter</col> guide	Útmutató: <colNum0>Hunter</col>	actions	menu	skillsTab
+Character Summary	Karakter összefoglaló	actions	menu	characterSummaryTab
+Achievement Diaries	Teljesítmény naplók	actions	menu	characterSummaryTab
+Quest List	Küldetéslista	actions	menu	characterSummaryTab
+Character Summary	Karakter összefoglaló	actions	menu	achievementDiaryTab
+Achievement Diaries	Teljesítmény naplók	actions	menu	achievementDiaryTab
+Quest List	Küldetéslista	actions	menu	achievementDiaryTab
+Character Summary	Karakter összefoglaló	actions	menu	questListTab
+Achievement Diaries	Teljesítmény naplók	actions	menu	questListTab
+Quest List	Küldetéslista	actions	menu	questListTab
+Character Summary	Karakter összefoglaló	actions	menu	
+Quest List	Küldetéslista	actions	menu	
+Rewards	Jutalmak	actions	menu	characterSummaryTab
+Tasks	Feladatok	actions	menu	characterSummaryTab
+Bosses	Főellenségek	actions	menu	characterSummaryTab
+Overview	Áttekintő	actions	menu	characterSummaryTab
+Collection Log	Gyűjtési napló	actions	menu	characterSummaryTab
+Collection Overview	Gyűjtési áttekintő	actions	menu	characterSummaryTab
+Reveal	Felfedés	actions	menu	characterSummaryTab
+Hide	Elrejtés	actions	menu	characterSummaryTab
+Open	Megnyitás	actions	menu	questListTab
+Close	Bezárás	actions	menu	questListTab
+Start Quest Helper	Küldetés segítő indítása	actions	menu	questListTab
+Open wiki quick guide:	Wiki gyors útmutató megnyitása:	actions	menu	questListTab
+Open wiki guide:	Wiki útmutató megnyitása:	actions	menu	questListTab
+Show on map:	Megmutatás a térképen:	actions	menu	questListTab
+Read journal:	Napló olvasása:	actions	menu	questListTab
+Start Helper	Segítő indítása	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>	Wiki: <colNum0>Ardougne napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>	Megnyitás: <colNum0>Ardougne napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>	Wiki: <colNum0>Sivatag napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>	Megnyitás: <colNum0>Sivatag napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>	Wiki: <colNum0>Falador napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>	Megnyitás: <colNum0>Falador napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>	Wiki: <colNum0>Fremennik napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>	Megnyitás: <colNum0>Fremennik napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>	Wiki: <colNum0>Kandarin napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>	Megnyitás: <colNum0>Kandarin napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>	Wiki: <colNum0>Karamja napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>	Megnyitás: <colNum0>Karamja napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>	Wiki: <colNum0>Kourend & Kebos napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>	Megnyitás: <colNum0>Kourend & Kebos napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>	Wiki: <colNum0>Lumbridge & Draynor napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>	Megnyitás: <colNum0>Lumbridge & Draynor napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>	Wiki: <colNum0>Morytania napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>	Megnyitás: <colNum0>Morytania napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>	Wiki: <colNum0>Varrock napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>	Megnyitás: <colNum0>Varrock napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>	Wiki: <colNum0>Nyugati tartományok napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>	Megnyitás: <colNum0>Nyugati tartományok napló</col>	actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>	Wiki: <colNum0>Vadon napló</col>	actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>	Megnyitás: <colNum0>Vadon napló</col>	actions	menu	achievementDiaryTab
+View equipment stats	Felszerelés statisztikái	actions	menu	wornEquipmentTab
+View guide prices	Irányárak megtekintése	actions	menu	wornEquipmentTab
+View items kept on death	Halálon megtartott tárgyak	actions	menu	wornEquipmentTab
+Call follower	Követő hívása	actions	menu	wornEquipmentTab
+Disable prayer reordering	Ima átrendezés letiltása	actions	menu	
+Enable prayer filtering	Ima szűrés engedélyezése	actions	menu	
+Disable spell reordering	Varázslat átrendezés letiltása	actions	menu	
+Enable spell filtering	Varázslat szűrés engedélyezése	actions	menu	
+Show notifications	Értesítések megjelenítése	actions	menu	
+Add Note	Megjegyzés hozzáadása	actions	menu	
+Hide notifications	Értesítések elrejtése	actions	menu	
+Delete	Törlés	actions	menu	friendsTab
+Message	Üzenet	actions	menu	friendsTab
+View Ignore List	Tiltólista megtekintése	actions	menu	friendsTab
+Add Friend	Barát hozzáadása	actions	menu	friendsTab
+Delete Friend	Barát törlése	actions	menu	friendsTab
+Hop-to	Ugrás ide	actions	menu	friendsTab
+View Friends List	Baráti lista megtekintése	actions	menu	ignoreTab
+Delete	Törlés	actions	menu	ignoreTab
+Add Name	Név hozzáadása	actions	menu	ignoreTab
+Delete Name	Név törlése	actions	menu	ignoreTab
+Account	Fiók	actions	menu	accountManagementTab
+Community	Közösség	actions	menu	accountManagementTab
+Useful Links	Hasznos linkek	actions	menu	accountManagementTab
+Open Store	Bolt megnyitása	actions	menu	accountManagementTab
+Bond Pouch	Bond Pouch	actions	menu	accountManagementTab
+View Inbox	Beérkező megtekintése	actions	menu	accountManagementTab
+Name Changer	Névváltás	actions	menu	accountManagementTab
+View History	Előzmények megtekintése	actions	menu	accountManagementTab
+View Newspost	Hír megtekintése	actions	menu	accountManagementTab
+View Archive	Archívum megtekintése	actions	menu	accountManagementTab
+Open	Megnyitás	actions	menu	accountManagementTab
+Settings	Beállítások	actions	menu	groupTab
+Refresh	Frissítés	actions	menu	groupTab
+Join	Csatlakozás	actions	menu	groupTab
+Setup	Beállítás	actions	menu	groupTab
+Find	Keresés	actions	menu	groupTab
+Open	Megnyitás	actions	menu	groupTab
+Add friend	Barát hozzáadása	actions	menu	groupTab
+Add ignore	Tiltólistára adás	actions	menu	groupTab
+Teleport	Teleportálás	actions	menu	groupTab
+Select	Kiválasztás	actions	menu	groupTab
+Join <colNum0><!ANY_TRANSLATED0></col> channel	Csatlakozás: <colNum0><!ANY_TRANSLATED0></col> csatorna	actions	menu	groupTab
+Leave <colNum0><!ANY_TRANSLATED0></col> channel	Elhagyás: <colNum0><!ANY_TRANSLATED0></col> csatorna	actions	menu	groupTab
+Teleport to <colNum0><!ANY_TRANSLATED0></col>	Teleportálás: <colNum0><!ANY_TRANSLATED0></col>	actions	menu	groupTab
+Add friend <!PLAYER_NAME0>	Barát hozzáadása <!PLAYER_NAME0>	actions	menu	groupTab
+Add ignore <!PLAYER_NAME0>	Tiltólistára adás <!PLAYER_NAME0>	actions	menu	groupTab
+Remove friend <!PLAYER_NAME0>	Barát törlése <!PLAYER_NAME0>	actions	menu	groupTab
+Remove ignore <!PLAYER_NAME0>	Tiltólistáról törlés <!PLAYER_NAME0>	actions	menu	groupTab
+View Channel	Csatorna megtekintése	actions	menu	groupTab
+Toggle skull prevention	Koponya-védelem váltása	actions	menu	settingsTab
+Toggle Accept Aid	Segítség elfogadásának váltása	actions	menu	settingsTab
+Toggle Run	Futás váltása	actions	menu	settingsTab
+View House Options	Házbeállítások megtekintése	actions	menu	settingsTab
+Open Bond Pouch	Bond erszény megnyitása	actions	menu	settingsTab
+All Settings	Összes beállítás	actions	menu	settingsTab
+Controls	Irányítás	actions	menu	settingsTab
+Display	Megjelenítés	actions	menu	settingsTab
+Audio	Hang	actions	menu	settingsTab
+Unmute	Hang visszaállítása	actions	menu	settingsTab
+Adjust Brightness	Fényerő beállítása	actions	menu	settingsTab
+Restore Default Zoom	Alapértelmezett nagyítás visszaállítása	actions	menu	settingsTab
+Disable	Letiltás	actions	menu	settingsTab
+Select	Kiválasztás	actions	menu	settingsTab
+Perform	Előadás	actions	menu	emotesTab
+Perform <colNum0>Relic unlock</col>	Elvégzés: <colNum0>Ereklye feloldása</col>	actions	menu	emotesTab
+Loop	Hurok	actions	menu	emotesTab
+Area	Terület	actions	menu	musicTab
+Manual	Kézikönyv	actions	menu	musicTab
+Random	Véletlenszerű	actions	menu	musicTab
+Unlock hint	Tipp feloldása	actions	menu	musicTab
+Play	Játék	actions	menu	musicTab
+Toggle	Váltás	actions	menu	musicTab
+Open	Megnyitás	actions	menu	musicTab
+Thumbs Up	Felfele mutató hüvelykujj	actions	menu	logoutTab
+Thumbs Down	Lefele mutató hüvelykujj	actions	menu	logoutTab
+World Switcher	Világ váltó	actions	menu	logoutTab
+Logout	Kijelentkezés	actions	menu	logoutTab
+Favourite	Kedvenc	actions	menu	worldSwitcherTab
+Switch	Váltás	actions	menu	worldSwitcherTab
+Logout	Kijelentkezés	actions	menu	worldSwitcherTab
+Clear	Törlés	actions	menu	worldSwitcherTab
+Close	Bezárás	actions	menu	worldSwitcherTab
+Configure	Beállítás	actions	menu	worldSwitcherTab
+Grouping	Csoportosítás	actions	menu	groupTab
+Ironman Group	Ironman Group	actions	menu	groupTab
+Chat-channel	Chat csatorna	actions	menu	groupTab
+Your Clan	Saját klánod	actions	menu	groupTab
+View another clan	Másik klán megtekintése	actions	menu	groupTab
+Message	Üzenet	actions	menu	groupTab
+Remove friend	Barát törlése	actions	menu	groupTab
+Switch world	Világ váltása	actions	menu	groupTab
+View Poll	Szavazás megtekintése	actions	menu	accountManagementTab
+Viewer	Néző	actions	menu	
+On	Be	actions	menu	
+Off	Ki	actions	menu	
+Expel Guests	Vendégek elküldése	actions	menu	
+Call Servant	Szolga hívása	actions	menu	
+Leave House	Ház elhagyása	actions	menu	
+Open subsection	Alfejezet megnyitása	actions	menu	
+Move	Mozgatás	actions	menu	
+Learn More	Tudj meg többet	actions	menu	

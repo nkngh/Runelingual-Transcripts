@@ -1,0 +1,4127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xliff:file source-language="en" target-language="hu" datatype="plaintext" original="transcript.db">
+    <xliff:body>
+      <xliff:trans-unit id="42721">
+        <xliff:source>Destroy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Dwarf remains
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=0</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42722">
+        <xliff:source>Drop</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cannonball
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42723">
+        <xliff:source>Read</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Nulodion's notes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42724">
+        <xliff:source>Set-up</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cannon base
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42725">
+        <xliff:source>Blow</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic whistle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=16</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42726">
+        <xliff:source>Ring</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Grail bell
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=17</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42727">
+        <xliff:source>Blow-on</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic gold feather
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=18</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42728">
+        <xliff:source>Extinguish</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Lit black candle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=32</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42729">
+        <xliff:source>Wield</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Excalibur
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=35</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42730">
+        <xliff:source>Wear</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Khazard helmet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=74</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42731">
+        <xliff:source>Empty</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Guam potion (unf)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=91</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42732">
+        <xliff:source>Drink</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Strength potion(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=113</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42733">
+        <xliff:source>Clean</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Grimy guam leaf
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=199</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42734">
+        <xliff:source>Eat</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Jangerberries
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=247</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42735">
+        <xliff:source>Equip</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cattleprod
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=278</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42736">
+        <xliff:source>Plant</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Mithril seeds
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=299</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42737">
+        <xliff:source>Open</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Casket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=405</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42738">
+        <xliff:source>Throw</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bird feed
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=422</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42739">
+        <xliff:source>Bury</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bones
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=526</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42740">
+        <xliff:source>Inspect</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ghost's skull
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=553</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42741">
+        <xliff:source>Bail-with</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bailing bucket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=583</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42742">
+        <xliff:source>Activate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Locating crystal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=611</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42743">
+        <xliff:source>Search</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Panning tray
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=677</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42744">
+        <xliff:source>Polish</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Buttons
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=688</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42745">
+        <xliff:source>Look-at</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Level 1 certificate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=691</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42746">
+        <xliff:source>Complete</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Radimus notes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=714</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42747">
+        <xliff:source>Swing</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bullroarer
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=716</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42748">
+        <xliff:source>Look</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sketch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=720</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42749">
+        <xliff:source>Enchant-Vials</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Binding book
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=730</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42750">
+        <xliff:source>Investigate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Dark dagger
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=746</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42751">
+        <xliff:source>Cast Spell</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Holy force
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=748</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42752">
+        <xliff:source>Hold</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Gnomeball
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=751</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42753">
+        <xliff:source>Dig</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Spade
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=952</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42754">
+        <xliff:source>Blackout</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Disk of returning
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=981</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42755">
+        <xliff:source>Check</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Iban's staff
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1409</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42756">
+        <xliff:source>Locate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Air talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1438</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42757">
+        <xliff:source>Rub-together</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Dry sticks
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1468</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42758">
+        <xliff:source>Study</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Map part
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1535</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42759">
+        <xliff:source>Rub</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1704</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42760">
+        <xliff:source>Edgeville</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42761">
+        <xliff:source>Karamja</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42762">
+        <xliff:source>Draynor Village</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42763">
+        <xliff:source>Al Kharid</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of glory(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1706</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42764">
+        <xliff:source>Tan Leather</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Leather
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=1741</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42765">
+        <xliff:source>Empty Bowl</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burnt stew
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2005</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42766">
+        <xliff:source>Mix-cocktail</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cocktail shaker
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2025</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42767">
+        <xliff:source>Remove-legs</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Swamp toad
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2150</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42768">
+        <xliff:source>Prepare</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Half baked bowl
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2177</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42769">
+        <xliff:source>Empty Tray</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burnt crunchies
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2199</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42770">
+        <xliff:source>Empty Tin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burnt batta
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2247</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42771">
+        <xliff:source>Empty Dish</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burnt pie
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2329</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42772">
+        <xliff:source>Guzzle</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rock cake
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2379</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42773">
+        <xliff:source>Play-with</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Brown toy horsey
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2520</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42774">
+        <xliff:source>Recharge Dragonstone</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Dead orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2529</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42775">
+        <xliff:source>Break</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of recoil
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2550</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42776">
+        <xliff:source>Emir's Arena</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42777">
+        <xliff:source>Castle Wars</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42778">
+        <xliff:source>Ferox Enclave</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42779">
+        <xliff:source>Fortis Colosseum</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of dueling(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2552</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42780">
+        <xliff:source>Toggle-respawn</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of life
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2570</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42781">
+        <xliff:source>Features</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2572</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42782">
+        <xliff:source>Look through</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sextant
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2574</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42783">
+        <xliff:source>Check steps</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Clue scroll (easy)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2677</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42784">
+        <xliff:source>Release All</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bloated toad
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2875</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42785">
+        <xliff:source>Release</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bloated toad
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2875</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42786">
+        <xliff:source>Check kills</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ogre bow
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2883</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42787">
+        <xliff:source>Fill</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Druid pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2957</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42788">
+        <xliff:source>Cast Bloom</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Silver sickle (b)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2963</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42789">
+        <xliff:source>Bloom</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Silver sickle (b)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2963</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42790">
+        <xliff:source>Cast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Druidic spell
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=2968</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42791">
+        <xliff:source>Debug</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Boss helper tool
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3667</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42792">
+        <xliff:source>Play</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Lyre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3689</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42793">
+        <xliff:source>Rellekka</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42794">
+        <xliff:source>Waterbirth Island</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42795">
+        <xliff:source>Neitiznot</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42796">
+        <xliff:source>Jatiszo</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted lyre(1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3691</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42797">
+        <xliff:source>Interact</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pet rock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3695</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42798">
+        <xliff:source>Shake</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Vase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3734</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42799">
+        <xliff:source>Remove-lid</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sealed vase
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3738</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42800">
+        <xliff:source>Preach</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Holy book
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3840</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42801">
+        <xliff:source>Burthorpe</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42802">
+        <xliff:source>Barbarian Outpost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42803">
+        <xliff:source>Corporeal Beast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42804">
+        <xliff:source>Tears of Guthix</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42805">
+        <xliff:source>Wintertodt Camp</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Games necklace(8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=3853</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42806">
+        <xliff:source>View</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Spare controls
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4002</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42807">
+        <xliff:source>Listen</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Monkey dentures
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4006</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42808">
+        <xliff:source>Poke</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Monkey
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4033</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42809">
+        <xliff:source>Surrender</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Saradomin cloak
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4041</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42810">
+        <xliff:source>Heal</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bandages
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4049</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42811">
+        <xliff:source>Loop</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Yo-yo
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4079</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42812">
+        <xliff:source>Walk</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Yo-yo
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4079</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42813">
+        <xliff:source>Crazy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Yo-yo
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4079</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42814">
+        <xliff:source>Ride</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sled
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4084</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42815">
+        <xliff:source>Partner</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted gem
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42816">
+        <xliff:source>Log</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted gem
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4155</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42817">
+        <xliff:source>Repair</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Model ship
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4253</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42818">
+        <xliff:source>Follow</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Treasure map
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4277</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42819">
+        <xliff:source>Count</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Petition form
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4283</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42820">
+        <xliff:source>Check-keys</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Steel key ring
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4446</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42821">
+        <xliff:source>Fling</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Easter basket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4565</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42822">
+        <xliff:source>Dance</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rubber chicken
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4566</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42823">
+        <xliff:source>Assemble</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Base schematics
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4574</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42824">
+        <xliff:source>Spin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Spinning plate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=4613</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42826">
+        <xliff:source>Remove-one</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Apples(2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5380</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42827">
+        <xliff:source>Build</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rogue kit
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5558</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42828">
+        <xliff:source>Slice</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten potato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5733</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42829">
+        <xliff:source>Peel</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten potato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5733</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42830">
+        <xliff:source>Mash</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten potato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=5733</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42831">
+        <xliff:source>Lletya</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Teleport crystal (4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6099</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42832">
+        <xliff:source>Prifddinas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Teleport crystal (4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6099</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42833">
+        <xliff:source>Toggle</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Teleport crystal (4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6099</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42834">
+        <xliff:source>Uncharge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Broodoo shield (10)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6215</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42835">
+        <xliff:source>Scan</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Commorb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6635</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42836">
+        <xliff:source>Contact</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Commorb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6635</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42837">
+        <xliff:source>Playback</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Commorb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6635</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42838">
+        <xliff:source>Talk-At</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fishbowl
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42839">
+        <xliff:source>Play-With</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fishbowl
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42840">
+        <xliff:source>Feed</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fishbowl
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6670</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42841">
+        <xliff:source>Untangle</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fishbowl and net
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6673</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42842">
+        <xliff:source>Check-charge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Camulet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6707</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42843">
+        <xliff:source>Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Camulet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6707</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42844">
+        <xliff:source>Display</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Zombie head
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6722</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42845">
+        <xliff:source>Question</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Zombie head
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6722</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42846">
+        <xliff:source>Chant</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Demonic sigil
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6748</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42847">
+        <xliff:source>Feel</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchanted key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6754</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42848">
+        <xliff:source>Remove-rat</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rat pole
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6774</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42849">
+        <xliff:source>Geomancy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Watering can
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6797</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42850">
+        <xliff:source>Jump</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Blue marionette
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6865</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42851">
+        <xliff:source>Bow</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Blue marionette
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6865</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42852">
+        <xliff:source>Talk-to</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Progress hat
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6885</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42853">
+        <xliff:source>Return</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Prison key
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=6966</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42854">
+        <xliff:source>Smell</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Spicy stew
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=7479</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42855">
+        <xliff:source>Release-all</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Balloon toad
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=7564</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42856">
+        <xliff:source>Wind</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Toy soldier
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=7759</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42857">
+        <xliff:source>Separate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kbd heads
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=7980</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42858">
+        <xliff:source>Unstuff</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Stuffed crawling hand
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=7982</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42859">
+        <xliff:source>Varrock</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Varrock teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8007</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42860">
+        <xliff:source>Grand Exchange</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Varrock teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8007</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42861">
+        <xliff:source>Camelot</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Camelot teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8010</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42862">
+        <xliff:source>Seers' Village</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Camelot teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8010</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42863">
+        <xliff:source>Watchtower</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Watchtower teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8012</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42864">
+        <xliff:source>Yanille</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Watchtower teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8012</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42865">
+        <xliff:source>Inside</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Teleport to house
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42866">
+        <xliff:source>Outside</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Teleport to house
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42867">
+        <xliff:source>Group</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Teleport to house
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42868">
+        <xliff:source>Info</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Enchant sapphire or opal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8016</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42870">
+        <xliff:source>Dust-hands</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ground ashes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8865</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42871">
+        <xliff:source>Talk-To</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Monkey
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=8942</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42872">
+        <xliff:source>Invoke</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skull sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42873">
+        <xliff:source>Divine</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skull sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42874">
+        <xliff:source>Convert</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9044</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42875">
+        <xliff:source>Launch</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Grand seed pod
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9469</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42876">
+        <xliff:source>Squash</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Grand seed pod
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9469</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42877">
+        <xliff:source>Pour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Mixed blizzard
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9566</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42878">
+        <xliff:source>Add-ingreds</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Mixed saturday
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9573</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42879">
+        <xliff:source>Unpack</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Proselyte harness m
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9666</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42880">
+        <xliff:source>Shape-Earth</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Page 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9684</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42881">
+        <xliff:source>Shape-Air</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Page 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9684</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42882">
+        <xliff:source>Shape-Fire</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Page 2
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9685</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42883">
+        <xliff:source>Shape-Water</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Page 2
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9685</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42884">
+        <xliff:source>Shape-Mind</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Page 3
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9686</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42885">
+        <xliff:source>Boost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Attack cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9747</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42886">
+        <xliff:source>Warriors' Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Strength cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9750</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42887">
+        <xliff:source>Toggle Effect</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Defence cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9753</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42888">
+        <xliff:source>Toggle Respawn</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Defence cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9753</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42889">
+        <xliff:source>Commune</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ranging cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9756</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42890">
+        <xliff:source>Spellbook</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9762</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42891">
+        <xliff:source>Lunar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9762</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42892">
+        <xliff:source>Arceuus</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9762</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42893">
+        <xliff:source>Standard</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9762</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42894">
+        <xliff:source>Ancient</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Magic cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9762</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42895">
+        <xliff:source>Stamina Boost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Agility cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9771</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42896">
+        <xliff:source>Tele to POH</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42897">
+        <xliff:source>Brimhaven</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42898">
+        <xliff:source>Home</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42899">
+        <xliff:source>Rimmington</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42900">
+        <xliff:source>Taverley</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42901">
+        <xliff:source>Pollnivneach</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42902">
+        <xliff:source>Hosidius</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42903">
+        <xliff:source>Aldarin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Construct. cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9789</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42904">
+        <xliff:source>Fishing Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fishing cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9798</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42905">
+        <xliff:source>Otto's Grotto</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fishing cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9798</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42906">
+        <xliff:source>Trim</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Quest point cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9813</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42907">
+        <xliff:source>Load</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: White destabiliser
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9913</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42908">
+        <xliff:source>Split</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cap and goggles
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9946</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42909">
+        <xliff:source>Hunter Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Hunter cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42910">
+        <xliff:source>Carnivorous Chinchompas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Hunter cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42911">
+        <xliff:source>Black Chinchompas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Hunter cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=9948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42912">
+        <xliff:source>Lay</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bird snare
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10006</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42914">
+        <xliff:source>Check totals</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Butterfly net
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10010</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42915">
+        <xliff:source>Check Totals</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Butterfly net
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10010</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42917">
+        <xliff:source>Bank</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Imp-in-a-box(2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10027</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42918">
+        <xliff:source>Translate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Research notes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10492</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42919">
+        <xliff:source>Prance</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Reindeer hat
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10507</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42920">
+        <xliff:source>Write-Role</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10512</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42921">
+        <xliff:source>Clear</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10512</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42922">
+        <xliff:source>Tell-red</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Attacker horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42923">
+        <xliff:source>Tell-green</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Attacker horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42924">
+        <xliff:source>Tell-blue</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Attacker horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42925">
+        <xliff:source>Medic</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Attacker horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10516</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42926">
+        <xliff:source>Look-in</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collection bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10521</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42927">
+        <xliff:source>Tell-tofu</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Healer horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10526</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42928">
+        <xliff:source>Tell-crackers</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Healer horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10526</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42929">
+        <xliff:source>Tell-worms</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Healer horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10526</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42930">
+        <xliff:source>Tell-meat</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Defender horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10538</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42931">
+        <xliff:source>Tell-controlled</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collector horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42932">
+        <xliff:source>Tell-accurate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collector horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42933">
+        <xliff:source>Tell-aggressive</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collector horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42934">
+        <xliff:source>Tell-defensive</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collector horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10560</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42935">
+        <xliff:source>Check tax</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Empty tax bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10831</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42936">
+        <xliff:source>Check taxes</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bulging taxbag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10835</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42937">
+        <xliff:source>Pray-over</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Blessed lamp
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10889</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42938">
+        <xliff:source>Recite-prayer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Prayer book
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=10890</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42939">
+        <xliff:source>Operate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Beacon ring
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11014</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42940">
+        <xliff:source>Farming Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42941">
+        <xliff:source>Mining Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42942">
+        <xliff:source>Crafting Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42943">
+        <xliff:source>Cooking Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42944">
+        <xliff:source>Woodcutting Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Skills necklace(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11105</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42945">
+        <xliff:source>Champions' Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Combat bracelet(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42946">
+        <xliff:source>Monastery</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Combat bracelet(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42947">
+        <xliff:source>Ranging Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Combat bracelet(4)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11118</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42948">
+        <xliff:source>Gem Mine</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Karamja gloves 3
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11140</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42949">
+        <xliff:source>Fossil Island</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Digsite pendant (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11190</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42950">
+        <xliff:source>Lithkren Dungeon</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Digsite pendant (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11190</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42951">
+        <xliff:source>Digsite</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Digsite pendant (1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11190</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42952">
+        <xliff:source>Loot</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Baby impling jar
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11238</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42953">
+        <xliff:source>Impling-jar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Jar generator
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11258</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42954">
+        <xliff:source>Butterfly-jar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Jar generator
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11258</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42955">
+        <xliff:source>Toggle-view</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Impling scroll
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11273</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42956">
+        <xliff:source>Copy to log</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ancient page
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11341</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42957">
+        <xliff:source>Discard</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Anti-dragon shield (nz)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11710</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42958">
+        <xliff:source>Take-one</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Herb box
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11738</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42959">
+        <xliff:source>Bank-all</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Herb box
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11738</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42960">
+        <xliff:source>Refund</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Scroll of redirection
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11740</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42961">
+        <xliff:source>Revert</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rimmington teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11741</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42962">
+        <xliff:source>Dismantle</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Armadyl godsword
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11802</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42963">
+        <xliff:source>Disassemble</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer helmet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11864</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42964">
+        <xliff:source>Fremennik Dungeon</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42965">
+        <xliff:source>Dark Beasts</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42966">
+        <xliff:source>Master</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42967">
+        <xliff:source>Stronghold</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42968">
+        <xliff:source>Slayer Tower</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42969">
+        <xliff:source>Tarn's Lair</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Slayer ring (8)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11866</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42970">
+        <xliff:source>Deposit</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Looting bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11941</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42971">
+        <xliff:source>Settings</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Looting bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11941</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42972">
+        <xliff:source>Miscellania</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42973">
+        <xliff:source>Falador</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42974">
+        <xliff:source>Dondakan</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42975">
+        <xliff:source>Boss Log</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42976">
+        <xliff:source>Coin Collection</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of wealth (5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11980</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42977">
+        <xliff:source>Tip</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fedora
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11990</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42978">
+        <xliff:source>Spawn Item</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Holiday tool
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11996</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42979">
+        <xliff:source>Basic Reanimation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Easter
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=11997</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42980">
+        <xliff:source>Dissolve</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Abyssal tentacle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12006</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42981">
+        <xliff:source>Check completion</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Challenge scroll (elite)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12128</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42982">
+        <xliff:source>Check rank</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Druidic wreath
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12600</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42983">
+        <xliff:source>Check Rank</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Druidic wreath
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12600</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42984">
+        <xliff:source>Configure</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Annakarl teleport
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12775</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42985">
+        <xliff:source>Extract</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Nest box (empty)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12792</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42986">
+        <xliff:source>Unload</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Toxic blowpipe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=12926</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42987">
+        <xliff:source>Untrim</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Quest point cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13068</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42988">
+        <xliff:source>Karamja (Shilo)</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42989">
+        <xliff:source>Western Provinces</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42990">
+        <xliff:source>Karamja (Jungle)</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42991">
+        <xliff:source>Twiggy O'Korn</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42992">
+        <xliff:source>Karamja (Mor Ul Rek)</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42993">
+        <xliff:source>Ardougne</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42994">
+        <xliff:source>Desert</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42995">
+        <xliff:source>Kourend &amp; Kebos</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42996">
+        <xliff:source>Lumbridge &amp; Draynor</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42997">
+        <xliff:source>Fremennik</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42998">
+        <xliff:source>Morytania</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="42999">
+        <xliff:source>Kandarin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43000">
+        <xliff:source>Wilderness</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Achievement diary cape (t)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13069</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43001">
+        <xliff:source>Slayer Master</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Karamja gloves 4
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13103</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43002">
+        <xliff:source>Ecto Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Morytania legs 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13112</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43003">
+        <xliff:source>Ectofuntus Pit</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Morytania legs 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13112</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43004">
+        <xliff:source>Burgh Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Morytania legs 3
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13114</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43005">
+        <xliff:source>Burgh de Rott</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Morytania legs 3
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13114</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43006">
+        <xliff:source>Activity</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bonecrusher
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13116</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43007">
+        <xliff:source>Recharge-prayer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Falador shield 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13117</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43008">
+        <xliff:source>Recharge Prayer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Falador shield 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13117</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43009">
+        <xliff:source>Monastery Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ardougne cloak 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13121</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43010">
+        <xliff:source>Kandarin Monastery</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ardougne cloak 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13121</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43011">
+        <xliff:source>Farm Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ardougne cloak 2
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13122</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43012">
+        <xliff:source>Ardougne Farm</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ardougne cloak 2
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13122</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43013">
+        <xliff:source>Energy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Explorer's ring 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13125</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43014">
+        <xliff:source>Alchemy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Explorer's ring 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13125</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43015">
+        <xliff:source>Functions</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Explorer's ring 2
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13126</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43016">
+        <xliff:source>Nardah</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Desert amulet 4
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13136</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43017">
+        <xliff:source>Kalphite cave</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Desert amulet 4
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13136</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43018">
+        <xliff:source>Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Diango's claws
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13188</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43019">
+        <xliff:source>Redeem</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Old school bond
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13190</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43020">
+        <xliff:source>Restore</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Tanzanite helm (uncharged)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13196</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43021">
+        <xliff:source>Scramble</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten egg
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13205</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43022">
+        <xliff:source>Poach</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten egg
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13205</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43023">
+        <xliff:source>Fry</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten egg
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13205</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43024">
+        <xliff:source>Pickle</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten egg
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13205</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43025">
+        <xliff:source>Consume</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Saradomin's light
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13256</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43026">
+        <xliff:source>Teleports</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13280</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43027">
+        <xliff:source>Metamorphosis</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Beaver
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13322</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43028">
+        <xliff:source>Chew</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten onion
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13327</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43029">
+        <xliff:source>POH Portals</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43030">
+        <xliff:source>Carnivorous chinchompas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43031">
+        <xliff:source>Ring of Life</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43032">
+        <xliff:source>Black chinchompas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43033">
+        <xliff:source>Warrior's Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43034">
+        <xliff:source>Guild Teleports</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43035">
+        <xliff:source>Skilling Areas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Max cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13342</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43036">
+        <xliff:source>Xeric's Lookout</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43037">
+        <xliff:source>Xeric's Glade</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43038">
+        <xliff:source>Xeric's Inferno</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43039">
+        <xliff:source>Xeric's Heart</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43040">
+        <xliff:source>Xeric's Honour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Xeric's talisman
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13393</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43041">
+        <xliff:source>Take-grubs</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bucket of sandworms
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13430</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43042">
+        <xliff:source>Pack</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Shayzien supply crate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13563</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43043">
+        <xliff:source>Check charges</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Chronicle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13660</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43044">
+        <xliff:source>Check Charges</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Chronicle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=13660</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43045">
+        <xliff:source>Teleport to Target</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Dead orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=17152</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43046">
+        <xliff:source>Transform</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Monkey
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=19556</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43047">
+        <xliff:source>Lap-count</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Monkey
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=19556</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43048">
+        <xliff:source>Combine</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Torn clue scroll (part 1)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=19837</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43049">
+        <xliff:source>Recoil settings</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of suffering (r)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20655</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43050">
+        <xliff:source>Recoil Settings</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of suffering (r)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20655</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43051">
+        <xliff:source>Pages</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Tome of fire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20714</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43052">
+        <xliff:source>Swap</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bruma torch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20720</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43053">
+        <xliff:source>Invigorate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Imbued heart
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20724</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43054">
+        <xliff:source>Look at</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Snow globe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20832</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43055">
+        <xliff:source>Snow</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Snow globe
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=20832</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43056">
+        <xliff:source>The Outpost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Necklace of passage(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21146</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43057">
+        <xliff:source>Eagles' Eyrie</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Necklace of passage(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21146</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43058">
+        <xliff:source>Wizards' Tower</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Necklace of passage(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21146</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43059">
+        <xliff:source>Options</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Amulet of chemistry
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21163</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43060">
+        <xliff:source>Bandit Camp</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burning amulet(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21166</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43061">
+        <xliff:source>Lava Maze</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burning amulet(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21166</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43062">
+        <xliff:source>Chaos Temple</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Burning amulet(5)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21166</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43063">
+        <xliff:source>Change-style</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rainbow scarf
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21314</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43064">
+        <xliff:source>Chill</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Hand fan
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21354</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43065">
+        <xliff:source>Remove default</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Master scroll book
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21389</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43066">
+        <xliff:source>Throw-water</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43067">
+        <xliff:source>Throw-water direction</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43068">
+        <xliff:source>Check-level</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43069">
+        <xliff:source>Throw-water north</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43070">
+        <xliff:source>Throw-water east</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43071">
+        <xliff:source>Throw-water south</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43072">
+        <xliff:source>Throw-water west</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Heat-proof vessel
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21539</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43073">
+        <xliff:source>Roll</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Hoop snake
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21624</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43074">
+        <xliff:source>Recharge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ancient wyvern shield
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21633</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43075">
+        <xliff:source>Channel</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Merfolk trident
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21649</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43076">
+        <xliff:source>Puff</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pufferfish
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21655</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43077">
+        <xliff:source>Take fish</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bowl of fish
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21693</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43078">
+        <xliff:source>Reminisce</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43079">
+        <xliff:source>Lunch by the Lancalliums</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43080">
+        <xliff:source>The Fisher's Flute</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43081">
+        <xliff:source>History and Hearsay</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43082">
+        <xliff:source>Jewellery of Jubilation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43083">
+        <xliff:source>A Dark Disposition</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Kharedst's memoirs
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21760</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43084">
+        <xliff:source>Toggle-absorption</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bracelet of ethereum
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21816</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43085">
+        <xliff:source>Toggle absorption</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bracelet of ethereum
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=21816</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43086">
+        <xliff:source>Elite</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Useful rock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22191</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43087">
+        <xliff:source>Assessment</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Useful rock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22191</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43088">
+        <xliff:source>Slash</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Prop sword
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22316</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43089">
+        <xliff:source>Control</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten cabbage
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22321</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43090">
+        <xliff:source>Spectate</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten cabbage
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22321</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43091">
+        <xliff:source>Charge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sanguinesti staff
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22323</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43092">
+        <xliff:source>Scry</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Oculus orb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22364</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43093">
+        <xliff:source>Ver Sinhaza</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Drakan's medallion
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22400</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43094">
+        <xliff:source>Darkmeyer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Drakan's medallion
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22400</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43095">
+        <xliff:source>Slepe</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Drakan's medallion
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22400</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43096">
+        <xliff:source>Tele</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten carrot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22437</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43097">
+        <xliff:source>Kill Bot</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten carrot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22437</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43098">
+        <xliff:source>Kill Area</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rotten carrot
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22437</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43099">
+        <xliff:source>Change</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sinhaza shroud tier 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22494</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43100">
+        <xliff:source>Auto-afk</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Escape crystal
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43101">
+        <xliff:source>Open-all</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Coin pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22521</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43102">
+        <xliff:source>Close</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Looting bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22586</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43103">
+        <xliff:source>Weiss</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Icy basalt
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22599</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43104">
+        <xliff:source>Troll Stronghold</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Stony basalt
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22601</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43105">
+        <xliff:source>Collections overview</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collection log
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22711</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43106">
+        <xliff:source>Collections Overview</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collection log
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22711</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43107">
+        <xliff:source>Collection Log</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Collection log
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22711</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43108">
+        <xliff:source>Fletch</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Celastrus bark
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22935</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43109">
+        <xliff:source>Kourend Woodland</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rada's blessing 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22941</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43110">
+        <xliff:source>Mount Karuulm</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Rada's blessing 3
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22945</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43111">
+        <xliff:source>Check/Uncharge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bonecrusher necklace
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22986</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43112">
+        <xliff:source>Take</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Seed pack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22993</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43113">
+        <xliff:source>Take-all</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Seed pack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22993</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43114">
+        <xliff:source>Fill/Check</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bottomless compost bucket
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=22997</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43115">
+        <xliff:source>Easter dance</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giant easter egg
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=23446</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43116">
+        <xliff:source>Cut-open</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giant egg sac(full)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=23517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43117">
+        <xliff:source>Check-eggs</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giant egg sac(full)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=23517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43118">
+        <xliff:source>Remove-eggs</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giant egg sac
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=23520</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43119">
+        <xliff:source>Scrutinise</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Guthixian icon
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24217</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43120">
+        <xliff:source>Trophy Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Twisted dragon trophy
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24372</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43121">
+        <xliff:source>Twisted Relic Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Twisted cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24395</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43122">
+        <xliff:source>Chase</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cat ears
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24525</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43123">
+        <xliff:source>Use</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Plank sack
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24882</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43124">
+        <xliff:source>Open-All</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Supply crate
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=24884</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43125">
+        <xliff:source>Trailblazer Relic Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Trailblazer cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43126">
+        <xliff:source>Trailblazer Area Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Trailblazer cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25013</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43127">
+        <xliff:source>Change-Style</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Infernal harpoon (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25059</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43128">
+        <xliff:source>Last-destination</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43129">
+        <xliff:source>Fairy-Ring</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43130">
+        <xliff:source>Spirit-tree</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43131">
+        <xliff:source>Tool-leprechauns</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fairy mushroom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25102</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43132">
+        <xliff:source>Teleport-back</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43133">
+        <xliff:source>Check-memories</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43134">
+        <xliff:source>Save-memory</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Crystal of echoes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25104</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43135">
+        <xliff:source>Withdraw</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Extradimensional bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25106</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43136">
+        <xliff:source>Settings/Destroy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Extradimensional bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25106</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43137">
+        <xliff:source>League Debug</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: League tomato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25117</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43138">
+        <xliff:source>Setups</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: League tomato
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25117</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43139">
+        <xliff:source>Toggle-colour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Soul cape
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25344</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43140">
+        <xliff:source>Scatter</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fiendish ashes
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25766</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43141">
+        <xliff:source>Trollheim</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ghommal's hilt 1
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25926</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43142">
+        <xliff:source>Mor Ul Rek</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ghommal's hilt 4
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25932</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43143">
+        <xliff:source>Unattune</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sigil of resilience
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25990</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43144">
+        <xliff:source>Attune</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Sigil of resilience
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=25991</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43145">
+        <xliff:source>Make scary noise</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Jered's empty wine bottle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26250</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43146">
+        <xliff:source>Reverse</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ugly halloween jumper (orange)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26256</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43147">
+        <xliff:source>Wake-ghost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Haunted wine bottle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26260</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43148">
+        <xliff:source>Read-tag</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Secret santa present (red)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26316</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43149">
+        <xliff:source>Change-colour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Secret santa present (red)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26316</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43150">
+        <xliff:source>Dismantle kit</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Abyssal whip (or)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26482</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43151">
+        <xliff:source>Skill Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43152">
+        <xliff:source>Boss Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43153">
+        <xliff:source>Quest Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43154">
+        <xliff:source>Fragment Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Shattered cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26517</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43155">
+        <xliff:source>Change Spellbook</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Arcane grimoire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26551</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43156">
+        <xliff:source>Previous Spellbook</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Arcane grimoire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26551</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43157">
+        <xliff:source>Check Previous</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Arcane grimoire
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26551</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43158">
+        <xliff:source>Unimbue</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Wristbands of the arena (i)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26727</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43159">
+        <xliff:source>Last Destination</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43160">
+        <xliff:source>Air Altar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43161">
+        <xliff:source>Water Altar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43162">
+        <xliff:source>Earth Altar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43163">
+        <xliff:source>Fire Altar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of the elements
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26818</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43164">
+        <xliff:source>Last-Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43165">
+        <xliff:source>Jalsavrah</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43166">
+        <xliff:source>Jaleustrophos</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43167">
+        <xliff:source>Jaldraocht</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43168">
+        <xliff:source>Jaltevas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pharaoh's sceptre
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=26948</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43169">
+        <xliff:source>Attach</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Cursed phalanx
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27248</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43170">
+        <xliff:source>Place</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Mirror
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27296</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43171">
+        <xliff:source>Withdraw 1</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Supplies
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27314</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43172">
+        <xliff:source>Withdraw All</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Supplies
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27314</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43173">
+        <xliff:source>Resupply</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Supplies
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27314</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43174">
+        <xliff:source>Apply</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Silk dressing (2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27323</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43175">
+        <xliff:source>Crack</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Blessed crystal scarab (2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27335</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43176">
+        <xliff:source>Crush</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Smelling salts (2)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27343</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43177">
+        <xliff:source>Take-from</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Infinite money bag
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27440</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43178">
+        <xliff:source>Help</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Fresh start helper
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27462</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43179">
+        <xliff:source>Accept trick-or-treat</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Treat cauldron
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27463</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43180">
+        <xliff:source>Sniff</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Smelly sock
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27488</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43181">
+        <xliff:source>Destinations</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ghommal's avernic defender 5
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=27550</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43182">
+        <xliff:source>Craft</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Secateurs blade
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28159</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43183">
+        <xliff:source>History</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Mulch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28183</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43184">
+        <xliff:source>Ancient Vault</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43185">
+        <xliff:source>Ghorrock Dungeon</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43186">
+        <xliff:source>The Scar</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43187">
+        <xliff:source>Lassar Undercity</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43188">
+        <xliff:source>The Stranglewood</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ring of shadows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28327</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43189">
+        <xliff:source>Recall</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Blackstone fragment
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28356</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43190">
+        <xliff:source>Squeeze</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Detonator
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28393</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43191">
+        <xliff:source>Set-off</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Stink bomb
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28471</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43192">
+        <xliff:source>Fairy-ring</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Trinket of fairies
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28564</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43193">
+        <xliff:source>Summon</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Trinket of undead
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28570</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43194">
+        <xliff:source>Nexus</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Globetrotter pendant
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28765</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43195">
+        <xliff:source>Jewellery</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Globetrotter pendant
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28765</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43196">
+        <xliff:source>Note-Quantity</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Banker's note
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28767</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43197">
+        <xliff:source>Un-note-Quantity</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Banker's note
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28767</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43198">
+        <xliff:source>Dismiss</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Guardian horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28769</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43199">
+        <xliff:source>Toggle-modes</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Guardian horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28769</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43200">
+        <xliff:source>Change-outfit</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Guardian horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28769</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43201">
+        <xliff:source>Change Prayerbook</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Ruinous powers
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28775</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43202">
+        <xliff:source>Toggle-activity</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Echo boots
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=28945</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43203">
+        <xliff:source>Signal</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Basic quetzal whistle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29271</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43204">
+        <xliff:source>Rumour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Basic quetzal whistle
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29271</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43205">
+        <xliff:source>Break-down</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Blessed bone statuette
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29338</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43208">
+        <xliff:source>The Darkfrost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pendant of ates
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43209">
+        <xliff:source>Twilight Temple</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pendant of ates
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43210">
+        <xliff:source>Ralos' Rise</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pendant of ates
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43211">
+        <xliff:source>North Aldarin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pendant of ates
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=29893</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43212">
+        <xliff:source>Colour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Beige pumpkin (disgusted)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30237</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43213">
+        <xliff:source>Carve</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Beige pumpkin (disgusted)
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30237</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43214">
+        <xliff:source>Withdraw-all</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Forager's pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43215">
+        <xliff:source>Withdraw-last</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Forager's pouch
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30357</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43216">
+        <xliff:source>Current-step</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Clue compass
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30363</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43217">
+        <xliff:source>Collect</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pocket kingdom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43218">
+        <xliff:source>Manage-kingdom</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Pocket kingdom
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30365</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43219">
+        <xliff:source>Relic Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Raging echoes cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30428</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43220">
+        <xliff:source>Area Emote</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Raging echoes cane
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30428</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43221">
+        <xliff:source>Detach</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Echo venator bow
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30434</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43222">
+        <xliff:source>Detatch</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Echo ahrim's robeskirt 75
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30529</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43223">
+        <xliff:source>Create-book</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Bronze staff of collection
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30597</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43224">
+        <xliff:source>Bryophyta</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giantsoul amulet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30638</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43225">
+        <xliff:source>Obor</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giantsoul amulet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30638</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43226">
+        <xliff:source>Branda and Eldric</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Giantsoul amulet
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30638</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43227">
+        <xliff:source>Radius</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Soulflame horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30759</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43228">
+        <xliff:source>Max Players</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Soulflame horn
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30759</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43229">
+        <xliff:source>Wipe</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Jim's wet cloth
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30808</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43230">
+        <xliff:source>Gl. Attenuation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Contract of glyphic attenuation
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30810</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43231">
+        <xliff:source>Se. Clouding</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Contract of sensory clouding
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30813</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43232">
+        <xliff:source>Bl. Blows</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Contract of bloodied blows
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30816</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43233">
+        <xliff:source>Di. Severance</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Contract of divine severance
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30819</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="43234">
+        <xliff:source>Fo. Breath</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: Contract of forfeit breath
+wiki_url: https://oldschool.runescape.wiki/?title=Special%3ASearchByProperty&amp;property=Item+ID&amp;value=30822</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125207">
+        <xliff:source>Examine</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125224">
+        <xliff:source>Remove</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125225">
+        <xliff:source>Add</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125226">
+        <xliff:source>Add-5</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125227">
+        <xliff:source>Add-10</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125228">
+        <xliff:source>Add-All</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125229">
+        <xliff:source>Add-X</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: inventoryActions
+sub_category: item
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+    </xliff:body>
+  </xliff:file>
+</xliff:xliff>

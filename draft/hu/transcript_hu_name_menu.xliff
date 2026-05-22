@@ -1,0 +1,2359 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xliff:file source-language="en" target-language="hu" datatype="plaintext" original="transcript.db">
+    <xliff:body>
+      <xliff:trans-unit id="117261">
+        <xliff:source>Redemption</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117262">
+        <xliff:source>Protect Item</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117263">
+        <xliff:source>Incredible Reflexes</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117264">
+        <xliff:source>Sharp Eye</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117265">
+        <xliff:source>Mystic Will</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117266">
+        <xliff:source>Rock Skin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117267">
+        <xliff:source>Protect from Magic</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117268">
+        <xliff:source>Protect from Missiles</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117269">
+        <xliff:source>Protect from Melee</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117270">
+        <xliff:source>Thick Skin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117271">
+        <xliff:source>Retribution</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117272">
+        <xliff:source>Mystic Might</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117273">
+        <xliff:source>Eagle Eye</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117274">
+        <xliff:source>Piety</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117275">
+        <xliff:source>Ultimate Strength</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117276">
+        <xliff:source>Improved Reflexes</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117277">
+        <xliff:source>Burst of Strength</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117278">
+        <xliff:source>Mystic Lore</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117279">
+        <xliff:source>Augury</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117280">
+        <xliff:source>Hawk Eye</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117281">
+        <xliff:source>Chivalry</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117282">
+        <xliff:source>Superhuman Strength</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117283">
+        <xliff:source>Rigour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117284">
+        <xliff:source>Smite</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117285">
+        <xliff:source>Preserve</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117286">
+        <xliff:source>Clarity of Thought</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117287">
+        <xliff:source>Rapid Restore</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117288">
+        <xliff:source>Rapid Heal</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117289">
+        <xliff:source>Steel Skin</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: prayerTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117290">
+        <xliff:source>Lumbridge Home Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117291">
+        <xliff:source>Wind Strike</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117292">
+        <xliff:source>Confuse</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117293">
+        <xliff:source>Crossbow Bolt Enchantments</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117294">
+        <xliff:source>Water Strike</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117295">
+        <xliff:source>Jewellery Enchantments</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117296">
+        <xliff:source>Earth Strike</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117297">
+        <xliff:source>Telekinetic Grab</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117298">
+        <xliff:source>Bind</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117299">
+        <xliff:source>Curse</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117300">
+        <xliff:source>Wind Bolt</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117301">
+        <xliff:source>Bones to Bananas</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117302">
+        <xliff:source>Fire Strike</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117303">
+        <xliff:source>Weaken</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117304">
+        <xliff:source>Low Level Alchemy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117305">
+        <xliff:source>Water Bolt</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117306">
+        <xliff:source>Varrock Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117307">
+        <xliff:source>Earth Bolt</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117308">
+        <xliff:source>Lumbridge Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117309">
+        <xliff:source>Fire Bolt</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117310">
+        <xliff:source>Falador Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117311">
+        <xliff:source>Kourend Castle Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117312">
+        <xliff:source>Water Blast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117313">
+        <xliff:source>Camelot Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117314">
+        <xliff:source>Superheat Item</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117315">
+        <xliff:source>Wind Blast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117316">
+        <xliff:source>Teleport to House</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117317">
+        <xliff:source>Crumble Undead</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117318">
+        <xliff:source>Iban Blast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117319">
+        <xliff:source>Snare</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117320">
+        <xliff:source>Magic Dart</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117321">
+        <xliff:source>Ardougne Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117322">
+        <xliff:source>Earth Blast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117323">
+        <xliff:source>Civitas illa Fortis Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117324">
+        <xliff:source>High Level Alchemy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117325">
+        <xliff:source>Charge Water Orb</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117326">
+        <xliff:source>Watchtower Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117327">
+        <xliff:source>Fire Blast</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117328">
+        <xliff:source>Charge Earth Orb</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117329">
+        <xliff:source>Bones to Peaches</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117330">
+        <xliff:source>Saradomin Strike</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117331">
+        <xliff:source>Claws of Guthix</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117332">
+        <xliff:source>Flames of Zamorak</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117333">
+        <xliff:source>Trollheim Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117334">
+        <xliff:source>Wind Wave</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117335">
+        <xliff:source>Charge Fire Orb</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117336">
+        <xliff:source>Ape Atoll Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117337">
+        <xliff:source>Water Wave</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117338">
+        <xliff:source>Charge Air Orb</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117339">
+        <xliff:source>Vulnerability</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117340">
+        <xliff:source>Earth Wave</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117341">
+        <xliff:source>Enfeeble</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117342">
+        <xliff:source>Teleother Lumbridge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117343">
+        <xliff:source>Fire Wave</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117344">
+        <xliff:source>Entangle</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117345">
+        <xliff:source>Stun</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117346">
+        <xliff:source>Teleother Camelot</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117347">
+        <xliff:source>Teleport to Target</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117348">
+        <xliff:source>Tele Block</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117349">
+        <xliff:source>Water Surge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117350">
+        <xliff:source>Teleother Falador</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117351">
+        <xliff:source>Wind Surge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117352">
+        <xliff:source>Charge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117353">
+        <xliff:source>Earth Surge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117354">
+        <xliff:source>Fire Surge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117355">
+        <xliff:source>Edgeville Home Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117356">
+        <xliff:source>Smoke Rush</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117357">
+        <xliff:source>Shadow Rush</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117358">
+        <xliff:source>Paddewwa Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117359">
+        <xliff:source>Smoke Burst</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117360">
+        <xliff:source>Senntisten Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117361">
+        <xliff:source>Ice Rush</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117362">
+        <xliff:source>Blood Rush</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117363">
+        <xliff:source>Shadow Burst</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117364">
+        <xliff:source>Kharyrll Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117365">
+        <xliff:source>Blood Burst</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117366">
+        <xliff:source>Ice Burst</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117367">
+        <xliff:source>Dareeyak Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117368">
+        <xliff:source>Shadow Blitz</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117369">
+        <xliff:source>Smoke Blitz</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117370">
+        <xliff:source>Lassar Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117371">
+        <xliff:source>Blood Blitz</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117372">
+        <xliff:source>Ice Blitz</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117373">
+        <xliff:source>Carrallanger Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117374">
+        <xliff:source>Blood Barrage</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117375">
+        <xliff:source>Annakarl Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117376">
+        <xliff:source>Shadow Barrage</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117377">
+        <xliff:source>Smoke Barrage</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117378">
+        <xliff:source>Ice Barrage</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117379">
+        <xliff:source>Ghorrock Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117380">
+        <xliff:source>Lunar Home Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117381">
+        <xliff:source>Bake Pie</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117382">
+        <xliff:source>Geomancy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117383">
+        <xliff:source>Cure Plant</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117384">
+        <xliff:source>Monster Examine</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117385">
+        <xliff:source>NPC Contact</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117386">
+        <xliff:source>Cure Other</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117387">
+        <xliff:source>Humidify</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117388">
+        <xliff:source>Moonclan Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117389">
+        <xliff:source>Tele Group Moonclan</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117390">
+        <xliff:source>Cure Me</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117391">
+        <xliff:source>Ourania Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117392">
+        <xliff:source>Hunter Kit</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117393">
+        <xliff:source>Waterbirth Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117394">
+        <xliff:source>Tele Group Waterbirth</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117395">
+        <xliff:source>Cure Group</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117396">
+        <xliff:source>Stat Spy</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117397">
+        <xliff:source>Barbarian Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117398">
+        <xliff:source>Tele Group Barbarian</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117399">
+        <xliff:source>Spin Flax</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117400">
+        <xliff:source>Superglass Make</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117401">
+        <xliff:source>Tan Leather</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117402">
+        <xliff:source>Khazard Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117403">
+        <xliff:source>Tele Group Khazard</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117404">
+        <xliff:source>Dream</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117405">
+        <xliff:source>String Jewellery</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117406">
+        <xliff:source>Stat Restore Pot Share</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117407">
+        <xliff:source>Magic Imbue</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117408">
+        <xliff:source>Fertile Soil</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117409">
+        <xliff:source>Boost Potion Share</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117410">
+        <xliff:source>Fishing Guild Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117411">
+        <xliff:source>Tele Group Fishing Guild</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117412">
+        <xliff:source>Plank Make</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117413">
+        <xliff:source>Catherby Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117414">
+        <xliff:source>Tele Group Catherby</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117415">
+        <xliff:source>Recharge Dragonstone</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117416">
+        <xliff:source>Ice Plateau Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117417">
+        <xliff:source>Tele Group Ice Plateau</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117418">
+        <xliff:source>Energy Transfer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117419">
+        <xliff:source>Heal Other</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117420">
+        <xliff:source>Vengeance Other</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117421">
+        <xliff:source>Vengeance</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117422">
+        <xliff:source>Heal Group</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117423">
+        <xliff:source>Spellbook Swap</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117424">
+        <xliff:source>Arceuus Home Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117425">
+        <xliff:source>Arceuus Library Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117426">
+        <xliff:source>Basic Reanimation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117427">
+        <xliff:source>Draynor Manor Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117428">
+        <xliff:source>Battlefront Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117429">
+        <xliff:source>Mind Altar Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117430">
+        <xliff:source>Respawn Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117431">
+        <xliff:source>Ghostly Grasp</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117432">
+        <xliff:source>Resurrect Lesser Ghost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117433">
+        <xliff:source>Resurrect Lesser Skeleton</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117434">
+        <xliff:source>Resurrect Lesser Zombie</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117435">
+        <xliff:source>Salve Graveyard Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117436">
+        <xliff:source>Adept Reanimation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117437">
+        <xliff:source>Inferior Demonbane</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117438">
+        <xliff:source>Shadow Veil</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117439">
+        <xliff:source>Fenkenstrain's Castle Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117440">
+        <xliff:source>Dark Lure</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117441">
+        <xliff:source>Skeletal Grasp</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117442">
+        <xliff:source>Resurrect Superior Ghost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117443">
+        <xliff:source>Resurrect Superior Skeleton</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117444">
+        <xliff:source>Resurrect Superior Zombie</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117445">
+        <xliff:source>Mark of Darkness</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117446">
+        <xliff:source>West Ardougne Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117447">
+        <xliff:source>Superior Demonbane</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117448">
+        <xliff:source>Lesser Corruption</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117449">
+        <xliff:source>Harmony Island Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117450">
+        <xliff:source>Vile Vigour</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117451">
+        <xliff:source>Degrime</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117452">
+        <xliff:source>Cemetery Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117453">
+        <xliff:source>Expert Reanimation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117454">
+        <xliff:source>Ward of Arceuus</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117455">
+        <xliff:source>Resurrect Greater Ghost</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117456">
+        <xliff:source>Resurrect Greater Skeleton</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117457">
+        <xliff:source>Resurrect Greater Zombie</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117458">
+        <xliff:source>Resurrect Crops</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117459">
+        <xliff:source>Undead Grasp</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117460">
+        <xliff:source>Death Charge</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117461">
+        <xliff:source>Dark Demonbane</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117462">
+        <xliff:source>Barrows Teleport</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117463">
+        <xliff:source>Demonic Offering</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117464">
+        <xliff:source>Greater Corruption</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117465">
+        <xliff:source>Master Reanimation</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="117466">
+        <xliff:source>Sinister Offering</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: spellBookTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125490">
+        <xliff:source>Ardougne Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125491">
+        <xliff:source>Ardougne Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125492">
+        <xliff:source>Ardougne Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125493">
+        <xliff:source>Ardougne Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125494">
+        <xliff:source>Desert Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125495">
+        <xliff:source>Desert Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125496">
+        <xliff:source>Desert Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125497">
+        <xliff:source>Desert Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125498">
+        <xliff:source>Falador Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125499">
+        <xliff:source>Falador Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125500">
+        <xliff:source>Falador Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125501">
+        <xliff:source>Falador Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125502">
+        <xliff:source>Fremennik Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125503">
+        <xliff:source>Fremennik Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125504">
+        <xliff:source>Fremennik Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125505">
+        <xliff:source>Fremennik Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125506">
+        <xliff:source>Kandarin Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125507">
+        <xliff:source>Kandarin Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125508">
+        <xliff:source>Kandarin Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125509">
+        <xliff:source>Kandarin Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125510">
+        <xliff:source>Karamja Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125511">
+        <xliff:source>Karamja Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125512">
+        <xliff:source>Karamja Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125513">
+        <xliff:source>Karamja Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125514">
+        <xliff:source>Kourend &amp; Kebos Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125515">
+        <xliff:source>Kourend &amp; Kebos Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125516">
+        <xliff:source>Kourend &amp; Kebos Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125517">
+        <xliff:source>Kourend &amp; Kebos Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125518">
+        <xliff:source>Lumbridge &amp; Draynor Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125519">
+        <xliff:source>Lumbridge &amp; Draynor Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125520">
+        <xliff:source>Lumbridge &amp; Draynor Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125521">
+        <xliff:source>Lumbridge &amp; Draynor Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125522">
+        <xliff:source>Morytania Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125523">
+        <xliff:source>Morytania Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125524">
+        <xliff:source>Morytania Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125525">
+        <xliff:source>Morytania Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125526">
+        <xliff:source>Varrock Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125527">
+        <xliff:source>Varrock Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125528">
+        <xliff:source>Varrock Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125529">
+        <xliff:source>Varrock Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125530">
+        <xliff:source>Western Provinces Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125531">
+        <xliff:source>Western Provinces Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125532">
+        <xliff:source>Western Provinces Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125533">
+        <xliff:source>Western Provinces Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125534">
+        <xliff:source>Wilderness Elite Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125535">
+        <xliff:source>Wilderness Hard Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125536">
+        <xliff:source>Wilderness Medium Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125537">
+        <xliff:source>Wilderness Easy Diary</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: achievementDiaryTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125538">
+        <xliff:source>Old School Website</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125539">
+        <xliff:source>Customer Support</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125540">
+        <xliff:source>Grand Exchange</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125541">
+        <xliff:source>Hiscores</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125542">
+        <xliff:source>Old School Wiki</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125543">
+        <xliff:source>Merchandise</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: accountManagementTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125544">
+        <xliff:source>&lt;col=ff9040&gt;PvP Arena&lt;/col&gt; options</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: groupTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125546">
+        <xliff:source>Music</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: settingsTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125547">
+        <xliff:source>Sound Effects</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: settingsTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125548">
+        <xliff:source>Area Sounds</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: settingsTab
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125549">
+        <xliff:source>XP drops</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125550">
+        <xliff:source>Quick-prayers</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125551">
+        <xliff:source>Special Attack</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125552">
+        <xliff:source>Instance Map</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125553">
+        <xliff:source>Ground Markers</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125554">
+        <xliff:source>Wiki</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125555">
+        <xliff:source>Attack</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125556">
+        <xliff:source>Hitpoints</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125557">
+        <xliff:source>Mining</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125558">
+        <xliff:source>Strength</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125559">
+        <xliff:source>Agility</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125560">
+        <xliff:source>Smithing</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125561">
+        <xliff:source>Defence</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125562">
+        <xliff:source>Herblore</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125563">
+        <xliff:source>Fishing</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125564">
+        <xliff:source>Ranged</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125565">
+        <xliff:source>Thieving</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125566">
+        <xliff:source>Cooking</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125567">
+        <xliff:source>Prayer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125568">
+        <xliff:source>Crafting</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125569">
+        <xliff:source>Firemaking</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125570">
+        <xliff:source>Magic</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125571">
+        <xliff:source>Fletching</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125572">
+        <xliff:source>Woodcutting</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125573">
+        <xliff:source>Runecraft</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125574">
+        <xliff:source>Slayer</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125575">
+        <xliff:source>Farming</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125576">
+        <xliff:source>Construction</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125577">
+        <xliff:source>Hunter</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+      <xliff:trans-unit id="125578">
+        <xliff:source>Search</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: menu
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+    </xliff:body>
+  </xliff:file>
+</xliff:xliff>

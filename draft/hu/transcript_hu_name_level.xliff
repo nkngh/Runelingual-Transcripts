@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff:xliff xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <xliff:file source-language="en" target-language="hu" datatype="plaintext" original="transcript.db">
+    <xliff:body>
+      <xliff:trans-unit id="125545">
+        <xliff:source>level</xliff:source>
+        <xliff:target/>
+        <xliff:note>category: name
+sub_category: level
+source: 
+wiki_url: nan</xliff:note>
+      </xliff:trans-unit>
+    </xliff:body>
+  </xliff:file>
+</xliff:xliff>

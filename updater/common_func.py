@@ -5,8 +5,8 @@ import shutil
 edit below to add/remove languages
 """
 # must mach lang code in LangCodeSelectableList.java
-LANG = ['pt_br', 'no', 'es_ag', 'ja', 'ru', 'tr', 'zh'] # add language codes here to add new language, then use update_nonEn_transcripts.py (and update_char_images.py if its non alphabet characters)
-LANG_CODE_STANDARD = ['pt-BR', 'no', 'es-AR', 'ja', 'ru', 'tr', 'zh-CN'] #  language codes follow the ISO 639 standard
+LANG = ['pt_br', 'no', 'es_ag', 'ja', 'ru', 'tr', 'zh', 'hu'] # add language codes here to add new language, then use update_nonEn_transcripts.py (and update_char_images.py if its non alphabet characters)
+LANG_CODE_STANDARD = ['pt-BR', 'no', 'es-AR', 'ja', 'ru', 'tr', 'zh-CN', 'hu'] #  language codes follow the ISO 639 standard
 # files not to list on hash file
 EXTENSION_IGNORE = ['.xlsx', 'xliff']
 
